@@ -129,7 +129,7 @@
 * 1 `0354IbnHibban.MashahirCulamaAmsar`	%128 inProgress (Cornelia) no matching PDF found
 * - `0642IbnNajjar.DhaylTarikhBaghdad`	%129
 * 1 ~~`0795IbnRajabHanbali.DhaylTabaqatHanabila`~~	%130 completed
-* 1 `0774IbnRaficSallami.Wafayat`	%132
+* 1 `0774IbnRaficSallami.Wafayat`	%132 inProgress (Cornelia)
 * - `0641Sarifini.Muntakhab`	%133
 * 3 `1351YusufIlyanSarkis.MucjamMatbucat`	%134
 * 1 ~~`0597IbnJawzi.SifaSafwa`~~	%135 completed
