@@ -25,7 +25,7 @@
 
 * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
 * 1 `0764Safadi.WafiBiWafayat`	%27 (in progress Jonas))
-* ~~1 `0902Sakhawi.DuLamic`	%28~~ (inProgress) Christoph
+* 1 ~~`0902Sakhawi.DuLamic`	%28~~ (inProgress) Christoph
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
@@ -42,7 +42,7 @@
 * 1 `0561Samcani.Ansab`	%41 (inProgress)
 * 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42
 * 4 `0733Nuwayri.NihayaArab`	%43
-* 1 `0762MughaltayIbnQalij.IkmalTahdhib`	%44 (inProgress)
+* 1 ~~`0762MughaltayIbnQalij.IkmalTahdhib`	%44~~ (finished Christoph)
 * 1 ~~`1339IsmacilBashaBaghdadi.HadiyaCarifin`~~	%45
 * 1 ~~`0630IbnAthirCizzDin.Kamil`	%46~~
 * 2 `0845Maqrizi.Suluk`	%47
