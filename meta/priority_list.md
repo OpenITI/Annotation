@@ -178,7 +178,7 @@
 * 1 `0668IbnAbiUsaybica.CuyunAnba`	%178 inProgress (Christoph) no matching PDF found
 * - `0973CabdWahhabShacrani.LawaqihAnwar`	%179
 * - `0684IbnShaddad.AclaqKhatira`	%180
-* 1 `0476AbuIshaqShirazi.TabaqatFuqaha`	%181
+* 1 ~~`0476AbuIshaqShirazi.TabaqatFuqaha`~~	%181
 * 1 ~~`0458Bayhaqi.DalailNubuwwa`~~	%182
 * 1 ~~`0521IbnAbiYacla.TabaqatHanabila`~~	%183
 * - `1346CbdQadirBadran.Munadama`	%184
