@@ -42,14 +42,14 @@
 * 1 `0561Samcani.Ansab`	%41 (inProgress)
 * 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42
 * 4 `0733Nuwayri.NihayaArab`	%43
-* 1 ~~`0762MughaltayIbnQalij.IkmalTahdhib`~~	%44 (finished Christoph)
-* 1 ~~`1339IsmacilBashaBaghdadi.HadiyaCarifin`~~	%45
-* 1 ~~`0630IbnAthirCizzDin.Kamil`	%46~~
+* 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
+* 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
+* 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46
 * 2 `0845Maqrizi.Suluk`	%47
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
-* 1 ~~`0768Yafici.MiratJanan`	%51~~
+* 1 `~~0768Yafici.MiratJanan~~`	%51
 * - `0842IbnNasirDinDimashqi.TawdihMushtabih`	%52
 * - `0475IbnMakula.IkmalFiRafcIrtiyab`	%53
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
@@ -63,7 +63,7 @@
 * 2 `0879IbnQutlubugha.Thiqat`	%62
 * 2 `0732AbuFida.MukhtasarFiAkhbar`	%63
 * 3 `0279Baladhuri.AnsabAshraf`	%64
-* 1 `0852IbnHajarCasqalani.IsabaFiTamyiz`	%65 (inProgress)
+* 1 `~~0852IbnHajarCasqalani.IsabaFiTamyiz~~'	%65 (completed)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
 * 2 `0808IbnKhaldun.Tarikh`	%67
 * 2 `0660IbnCadim.BughyatTalib`	%68
