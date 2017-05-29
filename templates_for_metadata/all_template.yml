@@ -1,0 +1,67 @@
+## Author
+
+0_uri_author: XXXShuhra (autoderived)
+
+1_name_ism_ar: Fulān
+1_name_nasab_ar: Fulān b. Fulān b. Fulān
+1_name_kunya_ar: Abū Fulān, Abū Fulāna
+1_name_laqab_ar: Fulān al-dīn, Fulān al-dīn
+1_name_nisba_ar: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
+1_name_shuhra_ar: Ibn Fulān
+
+1_date_born_AH: YE#MO#DA (XX for unkwnown)
+1_date_died_AH: YE#MO#DA (XX for unkwnown)
+
+1_place_born: `URIs from Althurayya`
+1_place_resided: URIs from Althurayya, comma separated
+1_place_visited: URIs from Althurayya, comma separated
+1_place_died: URIs from Althurayya
+
+8_bibliography: oclc@id#pages, jstor@id#pages,
+  isbn@id#pages, doi@id#pages, etc. (pages are optional)
+
+9_comment: Add a free running comment here; you can add as many
+  lines as you see fit; the main goal of this comment section
+  is to have a place to record valuable information, which is
+  difficult to formalize into the above given categories.
+
+## Book/Title
+
+0_uri_book: XXXShuhra.Title (autoderived)
+
+1_title_ar: Kitāb
+1_titleAlt_ar: Risālaŧ Kitāb, Risālaŧ Kitāb
+
+6_genres: GAL@keyword, GAS@keyword, maximromanov@keyword,
+  LIB@Keyword, gitHubUser@keyword
+
+7_preceded: URI of a book, or free running
+7_followed: URI of a book, or free running
+7_abridged: URI of a book, or free running
+7_commented: URI of a book, or free running
+
+8_manuscripts: COLLECTION@id, COLLECTION@id, etc.
+8_editions: oclc@id, isbn@id, etc.
+8_translations: oclc@id
+8_studies: oclc@id#pages, jstor@id#pages,
+  isbn@id#pages, doi@id#pages, etc. (pages are optional)
+8_links: all@url, vol1@url, vol2@url, etc.
+
+9_comment: Add a free running comment here; you can add as many
+  lines as you see fit; the main goal of this comment section
+  is to have a place to record valuable information, which is
+  difficult to formalize into the above given categories.
+
+## Edition/Version
+
+0_uri_version: XXXShuhra.Title.Version (autoderived)
+0_book_length: in words (autoderived)
+
+8_collatedWith: oclc@id, isbn@id, url@url
+8_basedOn: oclc@id, isbn@id, url@url
+8_links: all@url, vol1@url, vol2@url, etc. 
+
+9_comment: Add a free running comment here; you can add as many
+  lines as you see fit; the main goal of this comment section
+  is to have a place to record valuable information, which is
+  difficult to formalize into the above given categories.

@@ -1,0 +1,19 @@
+0_uri_book: XXXShuhra.Title (autoderived)
+1_title_ar: Kitāb
+1_titleAlt_ar: Risālaŧ Kitāb, Risālaŧ Kitāb
+6_genres: GAL@keyword, GAS@keyword, maximromanov@keyword,
+  LIB@Keyword, gitHubUser@keyword
+7_preceded: URI of a book, or free running
+7_followed: URI of a book, or free running
+7_abridged: URI of a book, or free running
+7_commented: URI of a book, or free running
+8_manuscripts: COLLECTION@id, COLLECTION@id, etc.
+8_editions: oclc@id, isbn@id, etc.
+8_translations: oclc@id
+8_studies: oclc@id#pages, jstor@id#pages,
+  isbn@id#pages, doi@id#pages, etc. (pages are optional)
+8_links: all@url, vol1@url, vol2@url, etc.
+9_comment: Add a free running comment here; you can add as many
+  lines as you see fit; the main goal of this comment section
+  is to have a place to record valuable information, which is
+  difficult to formalize into the above given categories.
