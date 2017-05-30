@@ -25,12 +25,16 @@
   is to have a place to record valuable information, which is
   difficult to formalize into the above given categories.
 
-## Book/Title
+
+## Book/Title## Book/Title
 
 0_uri_book: XXXShuhra.Title (autoderived)
 
 1_title_ar: Kitāb
 1_titleAlt_ar: Risālaŧ Kitāb, Risālaŧ Kitāb
+
+5_finished_where: URIs from Althurayya, comma separated
+5_finished_when_AH: YE#MO#DA (XX for unkwnown)
 
 6_genres: GAL@keyword, GAS@keyword, maximromanov@keyword,
   LIB@Keyword, gitHubUser@keyword

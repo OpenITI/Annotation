@@ -7,10 +7,10 @@
 1_name_shuhra_ar: Ibn Fulān
 1_date_born_AH: YE#MO#DA (XX for unkwnown)
 1_date_died_AH: YE#MO#DA (XX for unkwnown)
-1_place_born: `URIs from Althurayya`
+1_place_born: URI from Althurayya
 1_place_resided: URIs from Althurayya, comma separated
 1_place_visited: URIs from Althurayya, comma separated
-1_place_died: URIs from Althurayya
+1_place_died: URI from Althurayya
 8_bibliography: oclc@id#pages, jstor@id#pages,
   isbn@id#pages, doi@id#pages, etc. (pages are optional)
 9_comment: Add a free running comment here; you can add as many
