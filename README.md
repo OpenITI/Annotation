@@ -1,22 +1,13 @@
 # Annotation
 
+`Books` are grouped into `authors`. All authors are grouped into 25 AH periods, based on the year of their death. These repositories are the main working loci—if any modifications are to be added or made to texts or metadata, all has to be done in files in these folders.
 
+Instantiations of the corpus are generated from the data in `XXXXAH` folders. The main instantiations are as follows (_in progress_):
 
+- i.stylometric (texts are renamed and pruned for use with `r.stylo`)
+- i.mech (all texts are mechanically split into 300w units)
+- i.logic (all texts are split into logical units; only tagged texts)
+- i.passimMech (mechanical instantiation reformatted for passim)
+- i.passimLogic (logical instantiation reformatted for passim)
 
-
-# Lunar months for coding (use either No. or Code)
-
-|  No.  |  Name  |  Code  |  Arabic  |  Meaning  |
-|------:|:-------|:-------:|:--------:|:----------|
-|  01    |  Muḥarram  |  MUH  |  مُحَرَّم  |  forbidden  |
-|  02    |  Ṣafar  |  SAF  |  صَفَر  |  void  |
-|  03    |  Rabīʿ al-awwal  |  RA1  |  رَبيع الأوّل  |  the first spring  |
-|  04    |  Rabīʿ al-ṯānī  |  RA2  |  رَبيع الثاني  |  the second spring  |
-|  05    |  Jumādá al-ūlá  |  JU1  |  جُمادى الأولى  |  the first of parched land  |
-|  06    |  Jumādá al-āḫiraŧ  |  JU2  |  جُمادى الآخرة  |  the last of parched land  |
-|  07    |  Rajab  |  RAJ  |  رَجَب  |  respect, honour  |
-|  08    |  Šaʿbān  |  SHC  |  شَعْبان  |  scattered  |
-|  09    |  Ramaḍān  |  RAM  |  رَمَضان  |  burning heat  |
-|  10    |  Šawwāl  |  SHW  |  شَوّال  |  raised  |
-|  11    |  Ḏū al-Qaʿdaŧ  |  DHQ  |  ذو القعدة  |  the one of truce/sitting  |
-|  12    |  Ḏū al-Ḥijjaŧ  |  DHH  |  ذو الحجة  |  the one of pilgrimage  |
+_to be expanded_

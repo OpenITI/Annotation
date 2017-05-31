@@ -1,9 +1,9 @@
-0_uri_version: XXXShuhra.Title.Version (autoderived)
-0_book_length: in words (autoderived)
-8_collatedWith: oclc@id, isbn@id, url@url
-8_basedOn: oclc@id, isbn@id, url@url
-8_links: all@url, vol1@url, vol2@url, etc. 
-9_comment: Add a free running comment here; you can add as many
-  lines as you see fit; the main goal of this comment section
-  is to have a place to record valuable information, which is
-  difficult to formalize into the above given categories.
+00#VERS#URI######: XXXShuhra.Title.Version (autoupdated)
+00#VERS#LENGTH###: in words (autoupdated)
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#COMMENT##: a free running comment here; you can add
+  as many lines as you see fit; the main goal of this comment
+  section is to have a place to record valuable information,
+  which is difficult to formalize into the above given categories.
