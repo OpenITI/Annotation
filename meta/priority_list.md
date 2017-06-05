@@ -29,7 +29,7 @@
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
-* 2 `1396KhayrDinZirikli.Aclam`	%31
+* 2 `1396KhayrDinZirikli.Aclam`	%31 (inProgress) Christoph
 * 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
 * 1 `0742Mizzi.TahdhibKamal`	%33 in progress (Jonas)
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
