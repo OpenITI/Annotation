@@ -57,7 +57,7 @@
 * 4 `1411SayyidMarcashi.SharhIhqaq`	%56
 * 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57
 * 2 `0354IbnHibban.Thiqat`	%58
-* 1 `0764Safadi.AcyanCasr`	%59 (inProgress) Cornelia
+* 1 ~~`0764Safadi.AcyanCasr`~~	%59 completed (Cornelia)
 * 1 ~~`0681IbnKhallikan.WafayatAcyan`	%60~~
 * 1 ~~`0630IbnAthirCizzDin.LubabFiTahdhibAnsab`	%61~~
 * 2 `0879IbnQutlubugha.Thiqat`	%62
