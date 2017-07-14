@@ -13,7 +13,7 @@
 * 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 0 ~~`0748Dhahabi.MucjamShuyukh`~~	%14
 * 0 ~~`0748Dhahabi.MughniFiDucafa`~~	%15
-* 0 ~~`0748Dhahabi.MukhtasarCuluww`	%16~~
+(* 0 ~~`0748Dhahabi.MukhtasarCuluww`	%16~~
 * 0 ~~`0748Dhahabi.MukhtasarMinDubaythi`~~	%17 completed (Jonas)
 * 0 ~~`0748Dhahabi.Muqtana`~~	%18 (Leoni)
 * 0 ~~`0748Dhahabi.RuwatThiqat`	%19~~
@@ -23,7 +23,7 @@
 
 # Computationally generated priority list	%24
 
-* 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
+ * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
 * 1 `0764Safadi.WafiBiWafayat`	%27 (completed Jonas))
 * 1 0902Sakhawi.DuLamic`	%28 (inProgress but stopped working on it) Christoph 
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
@@ -44,7 +44,7 @@
 * 4 `0733Nuwayri.NihayaArab`	%43
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
 * 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
-* 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46
+* 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46 (Jonas in progress)
 * 2 `0845Maqrizi.Suluk`	%47 inProgress (Cornelia)
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
