@@ -24,7 +24,7 @@
 # Computationally generated priority list	%24
 
 * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
-* 1 `0764Safadi.WafiBiWafayat`	%27 (in progress Jonas))
+* 1 `0764Safadi.WafiBiWafayat`	%27 (completed Jonas))
 * 1 0902Sakhawi.DuLamic`	%28 (inProgress but stopped working on it) Christoph 
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
