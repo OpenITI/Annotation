@@ -45,7 +45,7 @@
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
 * 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
 * 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46 (Jonas in progress)
-* 2 `0845Maqrizi.Suluk`	%47 inProgress (Cornelia)
+* 2 `0845Maqrizi.Suluk`	%47 completed (Cornelia)
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
