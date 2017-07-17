@@ -65,7 +65,7 @@
 * 3 `0279Baladhuri.AnsabAshraf`	%64
 * 1 `~~0852IbnHajarCasqalani.IsabaFiTamyiz~~'	%65 (completed)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
-* 2 `0808IbnKhaldun.Tarikh`	%67
+* 2 `0808IbnKhaldun.Tarikh`	%67 inProgress (Cornelia)
 * 2 `0660IbnCadim.BughyatTalib`	%68
 * 2 `0874IbnTaghribirdi.ManhalSafi`	%69
 * 3 `0852IbnHajarCasqalani.FathBari`	%70
