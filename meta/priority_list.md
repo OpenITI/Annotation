@@ -60,12 +60,12 @@
 * 1 ~~`0764Safadi.AcyanCasr`~~	%59 completed (Cornelia)
 * 1 ~~`0681IbnKhallikan.WafayatAcyan`	%60~~
 * 1 ~~`0630IbnAthirCizzDin.LubabFiTahdhibAnsab`	%61~~
-* 2 `0879IbnQutlubugha.Thiqat`	%62
+* 2 `0879IbnQutlubugha.Thiqat`	%62 inProgress (Cornelia)
 * 2 `0732AbuFida.MukhtasarFiAkhbar`	%63
 * 3 `0279Baladhuri.AnsabAshraf`	%64
 * 1 `~~0852IbnHajarCasqalani.IsabaFiTamyiz~~'	%65 (completed)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
-* 2 `0808IbnKhaldun.Tarikh`	%67 inProgress (Cornelia)
+* 2 `0808IbnKhaldun.Tarikh`	%67 inProgress (Cornelia) stopped working on it
 * 2 `0660IbnCadim.BughyatTalib`	%68
 * 2 `0874IbnTaghribirdi.ManhalSafi`	%69
 * 3 `0852IbnHajarCasqalani.FathBari`	%70
