@@ -1,4 +1,4 @@
-    # Top priority	%1
+     # Top priority	%1
 
  * 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
 * 0 ~~`0748Dhahabi.Culuww`~~	%4 completed (Jonas) 
@@ -65,7 +65,7 @@
 * 1 `~~0852IbnHajarCasqalani.IsabaFiTamyiz~~'	%65 (completed)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
 * 2 `0808IbnKhaldun.Tarikh`	%67 inProgress (Cornelia) stopped working on it
-* 2 `0660IbnCadim.BughyatTalib`	%68
+* 2 `0660IbnCadim.BughyatTalib`	%68  in progress (Jonas)
 * 2 `0874IbnTaghribirdi.ManhalSafi`	%69
 * 3 `0852IbnHajarCasqalani.FathBari`	%70
 * 2 `0852IbnHajarCasqalani.LisanMizan`	%71
