@@ -31,7 +31,7 @@
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
 * 2 `1396KhayrDinZirikli.Aclam`	%31 (inProgress) Christoph
 * 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
-* 1 `0742Mizzi.TahdhibKamal`	%33  in progress (Jonas)
+* 1 `0742Mizzi.TahdhibKamal`	%33  complete (Jonas)
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
 * 1 ~~`1089IbnCimad.Shadharat`~~	%35 completed (Jonas)
 * 1 `0774IbnKathir.Bidaya`	%36 stoped working on this text because it was difficult -> see Readme (Jonas)
