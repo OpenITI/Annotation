@@ -1,6 +1,6 @@
- # Top priority	%1
+    # Top priority	%1
 
-* 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
+ * 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
 * 0 ~~`0748Dhahabi.Culuww`~~	%4 completed (Jonas) 
 * 0 ~~`0748Dhahabi.DhaylCibar`~~	%5 completed (Jonas)
 * 0 ~~`0748Dhahabi.DhaylDiwanDucafa`~~	%6 completed (Jonas)
@@ -17,8 +17,7 @@
 * 0 ~~`0748Dhahabi.MukhtasarMinDubaythi`~~	%17 completed (Jonas)
 * 0 ~~`0748Dhahabi.Muqtana`~~	%18 (Leoni)
 * 0 ~~`0748Dhahabi.RuwatThiqat`	%19~~
-* 0 ~~`0748Dhahabi.SiyarAclamNubala`	%20~~
-* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
+* 0 ~~`0748Dhahabi.SiyarAclamNubala`	%20~~* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
 
 # Computationally generated priority list	%24
@@ -40,8 +39,8 @@
 * 1 ~~`0852IbnHajarCasqalani.TahdhibTahdhib`~~	%39
 * 1 ~~`0711IbnManzurIfriqi.MukhtasarTarikhDimashq`~~	%40
 * 1 `0561Samcani.Ansab`	%41 (inProgress)
-* 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42
-* 4 `0733Nuwayri.NihayaArab`	%43
+* 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42 c
+* 4 `0733Nuwayri.NihayaArab`	%43 
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
 * 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
 * 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46 (Jonas in progress)
@@ -49,7 +48,7 @@
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
-* 1 `~~0768Yafici.MiratJanan~~`	%51
+* 1 `~~0768Yafici.MiratJanan~~`	%51     in progress ( Jonas)
 * - `0842IbnNasirDinDimashqi.TawdihMushtabih`	%52
 * - `0475IbnMakula.IkmalFiRafcIrtiyab`	%53
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
