@@ -38,7 +38,7 @@
 * 1 ~~`0597IbnJawzi.Muntazam`~~	%38
 * 1 ~~`0852IbnHajarCasqalani.TahdhibTahdhib`~~	%39
 * 1 ~~`0711IbnManzurIfriqi.MukhtasarTarikhDimashq`~~	%40
-* 1 `0561Samcani.Ansab`	%41 (inProgress)
+* 1 `0561Samcani.Ansab`	%41 in progress (Jonas)
 * 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42 c
 * 4 `0733Nuwayri.NihayaArab`	%43 
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
@@ -65,7 +65,7 @@
 * 1 `~~0852IbnHajarCasqalani.IsabaFiTamyiz~~'	%65 (completed)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
 * 2 `0808IbnKhaldun.Tarikh`	%67 inProgress (Cornelia) stopped working on it
-* 2 `0660IbnCadim.BughyatTalib`	%68  in progress (Jonas)
+* 2 `0660IbnCadim.BughyatTalib`	%68  completed (Jonas)
 * 2 `0874IbnTaghribirdi.ManhalSafi`	%69
 * 3 `0852IbnHajarCasqalani.FathBari`	%70
 * 2 `0852IbnHajarCasqalani.LisanMizan`	%71
