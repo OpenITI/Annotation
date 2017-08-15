@@ -8,9 +8,9 @@
 * 0 ~~`0748Dhahabi.DiwanDucafa`~~	%8 completed (Jonas)
 * 0 ~~`0748Dhahabi.Kashif`~~	%9 completed (Jonas)
 * 0 ~~`0748Dhahabi.MacrifaQurraKibar`~~	%10 completed (Jonas)
-* 0 ~~`0748Dhahabi.MizanIctidal`~~	%11 completed (Jonas)
+ * 0 ~~`0748Dhahabi.MizanIctidal`~~	%11 completed (Jonas)
 * 0 ~~`0748Dhahabi.MucinFiTabaqatMuhaddithin`~~	%12
-* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
+r* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 0 ~~`0748Dhahabi.MucjamShuyukh`~~	%14
 * 0 ~~`0748Dhahabi.MughniFiDucafa`~~	%15
 (* 0 ~~`0748Dhahabi.MukhtasarCuluww`	%16~~
@@ -18,10 +18,9 @@
 * 0 ~~`0748Dhahabi.Muqtana`~~	%18 (Leoni)
 * 0 ~~`0748Dhahabi.RuwatThiqat`	%19~~
 * 0 ~~`0748Dhahabi.SiyarAclamNubala`	%20~~
-* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
+ i* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
-
-# Computationally generated priority list	%24
+ # Computationally generated priority list	%24
 
  * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
 * 1 `~~0764Safadi.WafiBiWafayat~~`	%27 (completed Jonas))
@@ -30,7 +29,7 @@
 * 1 `~~0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
 * 2 ~~`~~1396KhayrDinZirikli.Aclam~~`~~ %31 (completed) Christoph
-* 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
+* 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)i
 * 1 `0742Mizzi.TahdhibKamal`	%33  completed (Jonas)
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
 * 1 `~~1089IbnCimad.Shadharat~~`	%35 completed (Jonas)
@@ -38,15 +37,15 @@
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
 * 1 `~~0597IbnJawzi.Muntazam~~`	%38  text was already completed (Jonas)
 * 1 `~~0852IbnHajarCasqalani.TahdhibTahdhib~~`	%39
-* 1 `0711IbnManzurIfriqi.MukhtasarTarikhDimashq`	%40 in progress (Jonas)
+* 1 `0711IbnManzurIfriqi.MukhtasarTarikhDimashq`	%40 done by Leonie (Jonas)
 * 1 `0561Samcani.Ansab`	%41 completed (Jonas)
 * 1 `~~0852IbnHajarCasqalani.DurarKamina~~`	%42 completed
 * 4 `0733Nuwayri.NihayaArab`	%43 
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
 * 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
-* 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46 (Jonas in progress)
+* 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46 was completed (Jonas)
 * 2 ~~`0845Maqrizi.Suluk`~~	%47 completed (Cornelia)
-* 2 `0855Cayni.CumdaQari`	%48
+* 2 `0855Cayni.CumdaQari`	%48  in progress (Jonas)
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
 * 1 `0768Yafici.MiratJanan`	%51     there is already a completed file there (Jonas)
