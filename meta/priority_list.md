@@ -17,29 +17,30 @@
 * 0 ~~`0748Dhahabi.MukhtasarMinDubaythi`~~	%17 completed (Jonas)
 * 0 ~~`0748Dhahabi.Muqtana`~~	%18 (Leoni)
 * 0 ~~`0748Dhahabi.RuwatThiqat`	%19~~
-* 0 ~~`0748Dhahabi.SiyarAclamNubala`	%20~~* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
+* 0 ~~`0748Dhahabi.SiyarAclamNubala`	%20~~
+* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
 
 # Computationally generated priority list	%24
 
  * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
-* 1 `0764Safadi.WafiBiWafayat`	%27 (completed Jonas))
+* 1 `~~0764Safadi.WafiBiWafayat~~`	%27 (completed Jonas))
 * 1 0902Sakhawi.DuLamic`	%28 (inProgress but stopped working on it) Christoph 
-* 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
-* 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
+* 1 `0463KhatibBaghdadi.TarikhBaghdad`	%29
+* 1 `~~0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
-* 2 ~~`1396KhayrDinZirikli.Aclam`~~ %31 (completed) Christoph
+* 2 ~~`~~1396KhayrDinZirikli.Aclam~~`~~ %31 (completed) Christoph
 * 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
 * 1 `0742Mizzi.TahdhibKamal`	%33  complete (Jonas)
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
-* 1 ~~`1089IbnCimad.Shadharat`~~	%35 completed (Jonas)
+* 1 `~~1089IbnCimad.Shadharat~~`	%35 completed (Jonas)
 * 1 `0774IbnKathir.Bidaya`	%36 stoped working on this text because it was difficult -> see Readme (Jonas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
-* 1 ~~`0597IbnJawzi.Muntazam`~~	%38
-* 1 ~~`0852IbnHajarCasqalani.TahdhibTahdhib`~~	%39
-* 1 ~~`0711IbnManzurIfriqi.MukhtasarTarikhDimashq`~~	%40
+* 1 `~~0597IbnJawzi.Muntazam~~`	%38
+* 1 `~~0852IbnHajarCasqalani.TahdhibTahdhib~~`	%39
+* 1 `0711IbnManzurIfriqi.MukhtasarTarikhDimashq`	%40
 * 1 `0561Samcani.Ansab`	%41 in progress (Jonas)
-* 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42 c
+* 1 `~~0852IbnHajarCasqalani.DurarKamina~~`	%42 completed
 * 4 `0733Nuwayri.NihayaArab`	%43 
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
 * 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
@@ -48,7 +49,7 @@
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
-* 1 `~~0768Yafici.MiratJanan~~`	%51     in progress ( Jonas)
+* 1 `0768Yafici.MiratJanan`	%51     in progress ( Jonas)
 * - `0842IbnNasirDinDimashqi.TawdihMushtabih`	%52
 * - `0475IbnMakula.IkmalFiRafcIrtiyab`	%53
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
@@ -62,7 +63,7 @@
 * 2 `0879IbnQutlubugha.Thiqat`	%62 inProgress (Cornelia)
 * 2 `0732AbuFida.MukhtasarFiAkhbar`	%63 stopped working on the Text (Christoph)
 * 3 `0279Baladhuri.AnsabAshraf`	%64
-* 1 `~~0852IbnHajarCasqalani.IsabaFiTamyiz~~'	%65 (completed)
+* 1 `0852IbnHajarCasqalani.IsabaFiTamyiz	%65 (completed)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
 * 2 `0808IbnKhaldun.Tarikh`	%67 inProgress (Cornelia) stopped working on it
 * 2 `0660IbnCadim.BughyatTalib`	%68  completed (Jonas)
@@ -73,36 +74,36 @@
 * 2 `1360IbnQasimMakhluf.ShajaraNur`	%73
 * 4 `1450AkramFaluji.MucjamSaghir`	%74
 * 1 `0749IbnWardi.Tarikh`	%75
-* 1 ~~`0658IbnAbbar.TakmilaLiSila`	%76~~ completed
+* 1 `~~0658IbnAbbar.TakmilaLiSila~~`	%76 completed
 * 1 `0902Sakhawi.TuhfaLatifa`	%77 (inProgress)
-* 1 ~~`0626YaqutHamawi.MucjamBuldan`	%78~~ completed
+* 1 `~~0626YaqutHamawi.MucjamBuldan~~`	%78= completed
 * 2 `1237Jabarti.CajaibAthar`	%79
 * - `0749ShihabDinCumari.MasalikAbsar`	%80
 * 0 `0771Subki.TabaqatShaficiyaKubra`	%81
 * - `0855Cayni.MaghaniAkhyar`	%82
-* 1 ~~`1061NajmDinGhazzi.KawakibSaira`	%83~~ completed (Christoph)
+* 1 `~~1061NajmDinGhazzi.KawakibSaira~~`	%83 completed (Christoph)
 * - `0833IbnJazari.GhayaNihaya`	%84
-* 1 ~~`0927Nucaymi.DarisFiMadaris`	%85~~ completed (Christoph)
+* 1 `~~0927Nucaymi.DarisFiMadaris~~`	%85 completed (Christoph)
 * - `1359CabbasQummi.Kuna`	%86
 * - `0398AbuNasrKalabadhi.HidayaWaIrshad`	%87
-* 1 ~~`0626YaqutHamawi.MucjamUdaba`	%88~~ completed
+* 1 =`~~0626YaqutHamawi.MucjamUdaba~~`	%88= completed
 * 2 `0630IbnAthirCizzDin.UsdGhaba`	%89 
-* 1 ~~`0911Suyuti.BughyaWucat`~~	%90 completed
-* 1 ~~`0379MuhammadRabci.TarikhMawlidCulama`~~	%91
-* ~~1 `0637IbnMustafwi.TarikhIrbil`	%92~~ completed
+* 1 `~~0911Suyuti.BughyaWucat~~`	%90 completed
+* 1 `0379MuhammadRabci.TarikhMawlidCulama`	%91
+* 1 `~~0637IbnMustafwi.TarikhIrbil~~`	%92 completed
 * - `0911Suyuti.HusnMuhadara`	%93
 * - `0832AbuTayyibFasi.DhaylTaqyid`	%94
-* ~~1 `0732IbnYacqubJanadi.SulukFiTabaqat`	%95~~ completed (Christoph)
+* 1 `~~0732IbnYacqubJanadi.SulukFiTabaqat~~`	%95 completed (Christoph)
 * 1 `0775IbnAbiWafa.JawahirMudiya`	%96 inProgress (Christoph) no matching PDF!
-* 1 ~~`0544CiyadIbnMusaYahsubi.TartibMadarik`	%97~~ completed
-* 2 `0463IbnCabdBarr.IsticabFiMacrifaAshab`	%98
-* 1 ~~`0403IbnFaradi.TarikhCulamaAndalus`	%99~~ completed
-* 1 ~~`1206Muradi.SilkDurar`	%100 inProgress~~ completed (Christoph)
+* 1 `~~0544CiyadIbnMusaYahsubi.TartibMadarik~~`	%97 completed
+* 2 `~~0463IbnCabdBarr.IsticabFiMacrifaAshab~~`	%98 completed
+* 1 `~~0403IbnFaradi.TarikhCulamaAndalus~~`	%99 completed
+* 1 `~~1206Muradi.SilkDurar~~`	%100 completed (Christoph)
 * 2 `0355AbuFarajIsbahani.Aghani`	%101
 * 2 `0629IbnNuqta.TakmilaIkmal`	%102
-* 1 ~~`0347IbnYunusSadafi.Tarikh`~~	%103 completed
+* 1 `0347IbnYunusSadafi.Tarikh`~~	%103 completed
 * 2 `0845Maqrizi.Mawaciz`	%104
-* 1 ~~`0578IbnBashkuwal.Sila`	%105~~ completed
+* 1 `~~0578IbnBashkuwal.Sila~~`	%105 completed
 * - `1269CabdMalikCasimi.SamtNujum`	%106
 * - `0360Tabarani.MucjamKabir`	%107
 * - `0812CaliKhazraji.CuqudLuluiyya`	%108
