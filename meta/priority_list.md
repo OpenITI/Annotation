@@ -1,9 +1,9 @@
-     # Top priority	%1
+ id     # Top priority	%1
 
  * 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
 * 0 ~~`0748Dhahabi.Culuww`~~	%4 completed (Jonas) 
 * 0 ~~`0748Dhahabi.DhaylCibar`~~	%5 completed (Jonas)
-* 0 ~~`0748Dhahabi.DhaylDiwanDucafa`~~	%6 completed (Jonas)
+d* 0 ~~`0748Dhahabi.DhaylDiwanDucafa`~~	%6 completed (Jonas)
 * 0 ~~`0748Dhahabi.DhikrAsmaManTakallama`~~	%7 completed (Jonas)
 * 0 ~~`0748Dhahabi.DiwanDucafa`~~	%8 completed (Jonas)
 * 0 ~~`0748Dhahabi.Kashif`~~	%9 completed (Jonas)
@@ -26,12 +26,12 @@
  * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
 * 1 `~~0764Safadi.WafiBiWafayat~~`	%27 (completed Jonas))
 * 1 0902Sakhawi.DuLamic`	%28 (inProgress but stopped working on it) Christoph 
-* 1 `0463KhatibBaghdadi.TarikhBaghdad`	%29
+* 1 `0463KhatibBaghdadi.TarikhBaghdad`	%29 in progress (Jonas)
 * 1 `~~0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
 * 2 ~~`~~1396KhayrDinZirikli.Aclam~~`~~ %31 (completed) Christoph
 * 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
-* 1 `0742Mizzi.TahdhibKamal`	%33  complete (Jonas)
+* 1 `0742Mizzi.TahdhibKamal`	%33  completed (Jonas)
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
 * 1 `~~1089IbnCimad.Shadharat~~`	%35 completed (Jonas)
 * 1 `0774IbnKathir.Bidaya`	%36 stoped working on this text because it was difficult -> see Readme (Jonas)
@@ -39,7 +39,7 @@
 * 1 `~~0597IbnJawzi.Muntazam~~`	%38
 * 1 `~~0852IbnHajarCasqalani.TahdhibTahdhib~~`	%39
 * 1 `0711IbnManzurIfriqi.MukhtasarTarikhDimashq`	%40
-* 1 `0561Samcani.Ansab`	%41 in progress (Jonas)
+* 1 `0561Samcani.Ansab`	%41 completed (Jonas)
 * 1 `~~0852IbnHajarCasqalani.DurarKamina~~`	%42 completed
 * 4 `0733Nuwayri.NihayaArab`	%43 
 * 1 `~~0762MughaltayIbnQalij.IkmalTahdhib~~`	%44 (finished Christoph)
@@ -49,7 +49,7 @@
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
-* 1 `0768Yafici.MiratJanan`	%51     in progress ( Jonas)
+* 1 `0768Yafici.MiratJanan`	%51     there is already a completed file there (Jonas)
 * - `0842IbnNasirDinDimashqi.TawdihMushtabih`	%52
 * - `0475IbnMakula.IkmalFiRafcIrtiyab`	%53
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
