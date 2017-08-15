@@ -69,7 +69,7 @@
 * 2 `0874IbnTaghribirdi.ManhalSafi`	%69
 * 3 `0852IbnHajarCasqalani.FathBari`	%70
 * 2 `0852IbnHajarCasqalani.LisanMizan`	%71
-* 2 `0310Tabari.Tarikh`	%72
+* 2 `0310Tabari.Tarikh`	%72 completed
 * 2 `1360IbnQasimMakhluf.ShajaraNur`	%73
 * 4 `1450AkramFaluji.MucjamSaghir`	%74
 * 1 `0749IbnWardi.Tarikh`	%75
