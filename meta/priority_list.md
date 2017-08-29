@@ -45,7 +45,7 @@ r* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 1 `~~1339IsmacilBashaBaghdadi.HadiyaCarifin~~	%45
 * 1 `~~0630IbnAthirCizzDin.Kamil~~`	%46 was completed (Jonas)
 * 2 ~~`0845Maqrizi.Suluk`~~	%47 completed (Cornelia)
-* 2 `0855Cayni.CumdaQari`	%48  in progress (Jonas)
+* 2 `0855Cayni.CumdaQari`	%48  completed (Jonas)
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
 * 1 `0768Yafici.MiratJanan`	%51     there is already a completed file there (Jonas)
@@ -54,7 +54,7 @@ r* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
 * 1 `0230IbnSacd.TabaqatKubra`	%55 (inProgress) Christoph
 * 4 `1411SayyidMarcashi.SharhIhqaq`	%56
-* 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57
+* 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57 in progress (Jonas)
 * 2 `0354IbnHibban.Thiqat`	%58
 * 1 ~~`0764Safadi.AcyanCasr`~~	%59 completed (Cornelia)
 * 1 ~~`0681IbnKhallikan.WafayatAcyan`	%60~~
