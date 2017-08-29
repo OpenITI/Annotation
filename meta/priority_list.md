@@ -54,7 +54,7 @@ r* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
 * 1 `0230IbnSacd.TabaqatKubra`	%55 (inProgress) Christoph
 * 4 `1411SayyidMarcashi.SharhIhqaq`	%56
-* 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57 in progress (Jonas)
+* 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57 completed (Jonas)
 * 2 `0354IbnHibban.Thiqat`	%58
 * 1 ~~`0764Safadi.AcyanCasr`~~	%59 completed (Cornelia)
 * 1 ~~`0681IbnKhallikan.WafayatAcyan`	%60~~
