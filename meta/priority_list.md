@@ -59,7 +59,7 @@ r* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 1 ~~`0764Safadi.AcyanCasr`~~	%59 completed (Cornelia)
 * 1 ~~`0681IbnKhallikan.WafayatAcyan`	%60~~
 * 1 ~~`0630IbnAthirCizzDin.LubabFiTahdhibAnsab`	%61~~
-* 2 `0879IbnQutlubugha.Thiqat`	%62 inProgress (Cornelia)
+* 2 ~~`0879IbnQutlubugha.Thiqat`~~	%62 completed (Cornelia)
 * 2 `0732AbuFida.MukhtasarFiAkhbar`	%63 stopped working on the Text (Christoph)
 * 3 `0279Baladhuri.AnsabAshraf`	%64
 * 1 `0852IbnHajarCasqalani.IsabaFiTamyiz	%65 (completed)
