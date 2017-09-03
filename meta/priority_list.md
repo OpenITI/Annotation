@@ -74,7 +74,7 @@ r* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 4 `1450AkramFaluji.MucjamSaghir`	%74
 * 1 `0749IbnWardi.Tarikh`	%75
 * 1 `~~0658IbnAbbar.TakmilaLiSila~~`	%76 completed
-* 1 `0902Sakhawi.TuhfaLatifa`	%77 (inProgress)
+* 1 `0902Sakhawi.TuhfaLatifa`	%77 stopped working on it (Cornelia)
 * 1 ~~`0626YaqutHamawi.MucjamBuldan`~~	%78= completed
 * 2 `1237Jabarti.CajaibAthar`	%79
 * - `0749ShihabDinCumari.MasalikAbsar`	%80
