@@ -1,2 +1,0 @@
-Test text string.
-This is another test text string.
