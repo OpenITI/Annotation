@@ -14,3 +14,6 @@ There are three types of text repositories:
 	- [*not created yet*] `i.passim_new_mech_cluster` with all text split mechanically into 900 word units (3 milestones) with 300 word overlap; converted for the use with new `passim` (JSON).
 	- `i.passim_old_mech` with all texts split mechanically into 300 word units, converted for the use with old `passim` (XML, gzipped).
 	- `i.stylo` includes all texts from OpenITI (duplicates excluded) that are renamed and slightly reformatted (Arabic orthography is simplified) for the use with `stylo` R-package.
+	
+	
+	Edite by CS
