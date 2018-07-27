@@ -16,4 +16,4 @@ There are three types of text repositories:
 	- `i.stylo` includes all texts from OpenITI (duplicates excluded) that are renamed and slightly reformatted (Arabic orthography is simplified) for the use with `stylo` R-package.
 	
 	
-	Edite by CS
+	Edited by CS
