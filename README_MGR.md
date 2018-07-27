@@ -15,5 +15,5 @@ There are three types of text repositories:
 	- `i.passim_old_mech` with all texts split mechanically into 300 word units, converted for the use with old `passim` (XML, gzipped).
 	- `i.stylo` includes all texts from OpenITI (duplicates excluded) that are renamed and slightly reformatted (Arabic orthography is simplified) for the use with `stylo` R-package.
 
-Lalalala /Mary had many cows.
 
+Edited by MGR
