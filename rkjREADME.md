@@ -15,3 +15,4 @@ There are three types of text repositories:
 	- `i.passim_old_mech` with all texts split mechanically into 300 word units, converted for the use with old `passim` (XML, gzipped).
 	- `i.stylo` includes all texts from OpenITI (duplicates excluded) that are renamed and slightly reformatted (Arabic orthography is simplified) for the use with `stylo` R-package.
 	Mary has many cows.
+	There were many cows in the pasture. She preferred her own milk and butter to that of the store. She used to sing to her cows to get better milk. She would say Hooowaa hoowaa hoowaa, soo cow soo cow, hoo. 
