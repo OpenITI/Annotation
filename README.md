@@ -8,6 +8,9 @@ There are three types of text repositories:
 
 - `RAWrabicaXXXXXX` repositories include *raw* texts as they were collected from various open-access online repositories and libraries. These texts are in their initial (*raw*) format and require reformatting and further integration into OpenITI. The overall current number of text files is over 40,000; slightly over 7,000 have been integrated into OpenITI.
 - `XXXXAH` are the main working folders that include integrated texts (all coming from collections included into `RAWrabicaXXXXXX` repositories).
+
+Or here?
+
 - `i.xxxxx` repositories are *instantiations* of the OpenITI corpus adapted for specific forms of analysis. At the moment, these include the following instantiations  (_in progress_):
 	- `i.cex` with all texts split mechanically into 300 word units, converted into `cex` format.
 	- `i.mech` with all texts split mechanically into 300 word units.
@@ -16,6 +19,8 @@ There are three types of text repositories:
 	- [*not created yet*] `i.passim_new_mech_cluster` with all text split mechanically into 900 word units (3 milestones) with 300 word overlap; converted for the use with new `passim` (JSON).
 	- `i.passim_old_mech` with all texts split mechanically into 300 word units, converted for the use with old `passim` (XML, gzipped).
 	- `i.stylo` includes all texts from OpenITI (duplicates excluded) that are renamed and slightly reformatted (Arabic orthography is simplified) for the use with `stylo` R-package.
+	
+Or here?
 
 Lalalala /Mary had many cows.
 
