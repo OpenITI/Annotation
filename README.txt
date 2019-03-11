@@ -17,3 +17,5 @@ There are three types of text repositories:
 	
 	
 New text
+
+|New text 2
