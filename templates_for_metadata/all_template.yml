@@ -226,6 +226,12 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 
+# 80#VERS#BASED#### means that the version of a text is based on this edition;
+# 80#VERS#COLLATED# means that the the version of the text was collated with this edition;
+#    if BASED and COLLATED are the same, it is important that they are still explicitely recorded
+#    because if the COLLATED is left empty, it will be unclear whether you forgot to add it or
+#    you used something else
+
 90#VERS#COMMENT##: a free running comment here; you can add
   as many lines as you see fit; the main goal of this comment
   section is to have a place to record valuable information,
