@@ -7,3 +7,6 @@
   as many lines as you see fit; the main goal of this comment
   section is to have a place to record valuable information,
   which is difficult to formalize into the above given categories.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please use consistently)

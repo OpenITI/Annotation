@@ -13,7 +13,7 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
-80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+80#AUTH#BIBLIO###: permalink, permalink, permalink, permalink
 90#AUTH#COMMENT##: a free running comment here; you can add
   as many lines as you see fit; the main goal of this comment
   section is to have a place to record valuable information,
