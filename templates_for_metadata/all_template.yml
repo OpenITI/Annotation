@@ -236,6 +236,10 @@
   as many lines as you see fit; the main goal of this comment
   section is to have a place to record valuable information,
   which is difficult to formalize into the above given categories.
+  
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please use consistently)
 
 ####################################################################
 ## EXAMPLE OF A VERSION RECORD #####################################
@@ -252,3 +256,7 @@
     The quality of reproduction is very high, corresponding very closely to the
     printed edition. The electronic file was initially prepared for Shamela by ...
     who did a great job tagging the text structurally.
+
+90#VERS#DATE#####: 2018-05-29
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ANNOTATOR: MAXIM G ROMANOV
