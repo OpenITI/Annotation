@@ -1,7 +1,7 @@
 ---
 name: Submission report (for Pull Requests)
 about: Fill in this report, if you sent a Pull Request
-title: 'Text tagged: <INSERT FULL URI HERE>'
+title: 'Text tagged: *INSERT FULL URI HERE*'
 labels: help wanted
 assignees: ''
 
