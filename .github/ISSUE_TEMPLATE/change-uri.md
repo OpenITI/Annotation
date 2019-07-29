@@ -2,7 +2,7 @@
 name: Change URI
 about: Create a report to change URIs of texts
 title: ''
-labels: enhancement
+labels: URI change suggestion
 assignees: ''
 
 ---
