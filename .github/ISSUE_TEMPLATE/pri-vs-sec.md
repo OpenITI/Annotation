@@ -2,7 +2,7 @@
 name: PRI vs SEC
 about: Suggest change for PRI[mary] text
 title: ''
-labels: ''
+labels: PRI & SEC Versions
 assignees: ''
 
 ---
