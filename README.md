@@ -1,6 +1,7 @@
 # Annotation
 
+The complete description of the annotation workflow can be found [here](). Steps below only explain the preocess of selection of a text for annotation.
 
-This repository is mainly for keeping track of work on the OpenITI corpus.
+1. Open the [priority list]()
 
 Priority list: []()
