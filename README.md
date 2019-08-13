@@ -9,3 +9,6 @@ The complete description of the annotation workflow can be found [here](https://
 1. Before you proceed, open an issue ([issues](https://github.com/OpenITI/Annotation/issues) > `New Issue`), using **IN PROGRESS** template.
 1. After you finish annotating, send a pull request, close your **IN PROGRESS ISSUE**, and open another issue using **Submission report (for Pull Requests)** template.
 
+# A note for the project curators
+
+You can create an `URGENT` issue to assignn specific text to a specific person. Go to `ISSUES` > `New Issue` > select `URGENT` template > Follow the instructions in the template. 
