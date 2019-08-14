@@ -1,6 +1,6 @@
 # Annotation
 
-The complete description of the annotation workflow can be found [here](https://docs.google.com/document/d/1I3Xa67EOMOGoaBJnjxlZcuyEFHYq21gwS4r59t_Mw5g/edit?usp=sharing). Steps below only explain the preocess of selection of a text for annotation.
+The complete description of the annotation workflow can be found [here](https://docs.google.com/document/d/1I3Xa67EOMOGoaBJnjxlZcuyEFHYq21gwS4r59t_Mw5g/edit?usp=sharing). Steps below only explain the process of selection of a text for annotation.
 
 1. Open the [priority list](https://github.com/OpenITI/Annotation/blob/master/priority_list.csv). It is organized chronologically and is searcheable (the field with a magnifying glass, saying `Search this file`).
 1. Texts with `priority` are the ones that should be annotated. Work in chronological order. Texts up to 1000 AH are of top priority.
@@ -9,3 +9,6 @@ The complete description of the annotation workflow can be found [here](https://
 1. Before you proceed, open an issue ([issues](https://github.com/OpenITI/Annotation/issues) > `New Issue`), using **IN PROGRESS** template.
 1. After you finish annotating, send a pull request, close your **IN PROGRESS ISSUE**, and open another issue using **Submission report (for Pull Requests)** template.
 
+# A note for the project curators
+
+You can create an `URGENT` issue to assignn specific text to a specific person. Go to `ISSUES` > `New Issue` > select `URGENT` template > Follow the instructions in the template. 
