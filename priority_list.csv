@@ -450,7 +450,7 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0576IbnMuhammadSilafi.Wajiz,priority,,,
 0577IbnAnbari.NuzhaAlibba,,,completed,
 0578IbnBashkuwal.GhawamidAsma,priority,,,
-0578IbnBashkuwal.Sila,,,,mARkdown
+0578IbnBashkuwal.Sila,,,completed+,
 0580IbnCaliIbnAbiYacla.TajridAsmaWaKuna,priority,,,
 0580IbnCimrani.InbaFiTarikhKhulafa,priority,,,
 0584IbnMunqidhShayzari.ManazilWaDiyar,priority,,,
@@ -503,7 +503,7 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0655CabdMuncimTaqiDinShafici.Fawaid,priority,,,
 0658IbnAbbar.HullaSiyara,,,completed,
 0658IbnAbbar.MucjamAshab,,,completed,
-0658IbnAbbar.TakmilaLiSila,,,,mARkdown
+0658IbnAbbar.TakmilaLiSila,,,completed+,
 0658IbnAbbar.TuhfaQadim,,,completed,
 0659SainDinNaccal.Mashyakha,priority,,,
 0660IbnCadim.BughyatTalib,,,completed,
@@ -513,7 +513,7 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0673AbuMahasinYaghmuri.NurQabas,priority,,,
 0676Nawawi.TahdhibAsma,priority,,,
 0680IbnSabuni.TakmilaIkmalIkmal,,,completed,
-0681IbnKhallikan.WafayatAcyan,,,,mARkdown
+0681IbnKhallikan.WafayatAcyan,,,completed+,
 0682ZakariyaQazwini.AtharBilad,priority,,,
 0684IbnShaddad.AclaqKhatira,priority,,,
 0685IbnCibri.TarikhMukhtasarDuwal,,,completed,
@@ -573,7 +573,7 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0748Dhahabi.RuwatThiqat,priority,,,
 0748Dhahabi.SiyarAclamNubala,,,completed,
 0748Dhahabi.TadhkiraHuffaz,,,completed,
-0748Dhahabi.TarikhIslam,,,,mARkdown
+0748Dhahabi.TarikhIslam,,,,mARkdown+
 0748IbnDimyati.Mustafad,priority,,,
 0749IbnWardi.Tarikh,priority,,,
 0749ShihabDinCumari.MasalikAbsar,priority,,,
