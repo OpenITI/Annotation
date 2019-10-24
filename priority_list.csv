@@ -1,7 +1,7 @@
 BookURI,Stage1,Stage2,Stage3,issue added
-1100IbnMuhammadAdnahwi.TabaqatMufassirin,,,,issue added
 0276IbnQutaybaDinawari.Macarif,,,,issue added
 0280IbnTayfur.Baghdad,,,,issue added
+0292Yacqubi.TarikhYacqubi,,,,issue added
 0355MuhammadKindi.WulatMisr,,,,issue added
 0369AbuShaykhIsbahani.TabaqatMuhaddithin,,,,issue added
 0385Daruqutni.Nuzul,,,,issue added
@@ -9,6 +9,7 @@ BookURI,Stage1,Stage2,Stage3,issue added
 0403IbnFaradi.TarikhCulamaAndalus,,,,issue added
 0405HakimNaysaburi.TalkhisTarikhNaysabur,,,,issue added
 0427HamzaJurjani.TarikhJurjan,,,,issue added
+0450Najashi.Rijal,,,,issue added
 0578IbnBashkuwal.Sila,,,,issue added
 0630IbnAthirCizzDin.LubabFiTahdhibAnsab,,,,issue added
 0658IbnAbbar.TakmilaLiSila,,,,issue added
@@ -20,23 +21,22 @@ BookURI,Stage1,Stage2,Stage3,issue added
 0774IbnKathir.TafsirQuran,,,,issue added
 0900AbuCabdAllahHimyari.RawdMictar,,,,issue added
 0911Suyuti.LubbLubab,,,,issue added
+1100IbnMuhammadAdnahwi.TabaqatMufassirin,,,,issue added
 1206Muradi.SilkDurar,,,,issue added
 1339IsmacilBashaBaghdadi.HadiyatCarifin,,,,issue added
 1396KhayrDinZirikli.Aclam,,,,issue added
-0292Yacqubi.TarikhYacqubi,,,,issue added
 0300IbnKhurdadhbih.MasalikWaMamalik,,,completed,
 0346Mascudi.AkhbarZaman,,,completed,
 0347IbnYunusSadafi.Tarikh,,,completed,
-0379MuhammadRabci.TarikhMawlidCulama,,,completed,
-0385IbnNadim.Fihrist,,,completed,
+0379MuhammadRabci.TarikhMawlidCulama,,,,issue added
+0385IbnNadim.Fihrist,,,,issue added
 0390Muqaddasi.AhsanTaqasim,,,completed,
-0412Sulami.TabaqatSufiya,,,completed,
+0412Sulami.TabaqatSufiya,,,,issue added
 0429AbuMansurThacalibi.YatimaDahr,,,completed,
 0430AbuNucaymIsbahani.HilyaAwliya,,,completed,
 0430AbuNucaymIsbahani.TarikhIsbahan,,,completed,
 0442Tanukhi.TarikhCulamaNahwiyyin,,,completed,
 0446AbuYaclaKhalili.IrshadFiMacrifaCulama,,,completed,
-0450Najashi.Rijal,,,completed,
 0458Bayhaqi.DalailNubuwwa,,,completed,
 0460ShaykhTusi.IkhtiyarMacrifaRijal,,,completed,
 0460ShaykhTusi.Rijal,,,completed,
