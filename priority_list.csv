@@ -5,12 +5,23 @@ BookURI,Stage1,Stage2,Stage3
 0230IbnSacd.TabaqatKubra,,,issue added
 0240KhalifaIbnKhayyat.Tabaqat,,,issue added
 0241IbnHanbal.AhkamNisa,,,issue added
+0241IbnHanbal.CilalWaMacrifa,,,issue added
+0241IbnHanbal.FadailSahaba,,,issue added
+0241IbnHanbal.JamicFiCilal,,,issue added
 0241IbnHanbal.Musnad,,,issue added
+0249Azraqi.AkhbarMakka,,,issue added
+0257IbnCabdHakam.FutuhMisr,,,issue added
+0272Fakihi.AkhbarMakka,,,issue added
 0276IbnQutaybaDinawari.Macarif,,,issue added
 0279Baladhuri.AnsabAshraf,,,issue added
+0279Baladhuri.FutuhBuldan,,,issue added
 0280IbnTayfur.Baghdad,,,issue added
+0281AbuZurcaDimashqi.Tarikh,,,issue added
+0281IbnAbiDunya.Ahwal,,,issue added
 0281IbnAbiDunya.CumrWaShayb,,,issue added
+0281IbnAbiDunya.Hilm,,,issue added
 0281IbnAbiDunya.Manamat,,,issue added
+0281IbnAbiDunya.Yaqin,,,issue added
 0285IbnYazidMubarrad.NasabCadnan,,,issue added
 0292Yacqubi.TarikhYacqubi,,,issue added
 0300IbnKhurdadhbih.MasalikWaMamalik,,,issue added
@@ -134,15 +145,11 @@ BookURI,Stage1,Stage2,Stage3
 1206Muradi.SilkDurar,,,issue added
 1339IsmacilBashaBaghdadi.HadiyatCarifin,,,issue added
 1396KhayrDinZirikli.Aclam,,,issue added
-0241IbnHanbal.CilalWaMacrifa,,,issue added
-0241IbnHanbal.FadailSahaba,,,issue added
-0241IbnHanbal.JamicFiCilal,,,issue added
 0241IbnHanbal.MasailRiwayatCabdAllah,,probably done,
 0241IbnHanbal.MasailRiwayatSalih,,probably done,
 0241IbnHanbal.MinSualatIbnMuhammadAthram,,probably done,
 0241IbnHanbal.RaddCalaZanadiqa,,probably done,
 0245MuhammadIbnHabib.Muhabbar,,probably done,
-0249Azraqi.AkhbarMakka,,,issue added
 0255Jahiz.BayanWaTabyin,,probably done,
 0255Jahiz.Bighal,,probably done,
 0255Jahiz.Bukhala,,probably done,
@@ -153,12 +160,8 @@ BookURI,Stage1,Stage2,Stage3
 0255Jahiz.Rasail,,probably done,
 0255Jahiz.TabsiraBiTijara,,probably done,
 0255Jahiz.TajFiAkhlaq,,probably done,
-0257IbnCabdHakam.FutuhMisr,,probably done,
-0272Fakihi.AkhbarMakka,,probably done,
 0276IbnQutaybaDinawari.TawilMukhtalafHadith,,probably done,
-0279Baladhuri.FutuhBuldan,,probably done,
 0280CuthmanIbnSacidDarimi.RaddCalaJahmiyya,,probably done,
-0281AbuZurcaDimashqi.Tarikh,,probably done,
 0281IbnAbiDunya.AmrBiMacruf,,probably done,
 0281IbnAbiDunya.Awliya,,probably done,
 0281IbnAbiDunya.CaqlWaFadluh,,probably done,
@@ -233,8 +236,6 @@ BookURI,Stage1,Stage2,Stage3
 0277IbnSufyanFasawi.Mashyakha,priority,,
 0279IbnAbiKhaythama.TarikhKabir,priority,,
 0279Tirmidhi.CilalSaghir,priority,,
-0281IbnAbiDunya.Ahwal,,,issue added
-0281IbnAbiDunya.Hilm,,,issue added
 0281IbnAbiDunya.HilmMucawiya,priority,,
 0281IbnAbiDunya.HusnZannBiLlah,priority,,
 0281IbnAbiDunya.IctibarWaAcqab,priority,,
@@ -255,7 +256,6 @@ BookURI,Stage1,Stage2,Stage3
 0281IbnAbiDunya.Tahajjud,priority,,
 0281IbnAbiDunya.TawaducWaKhumul,priority,,
 0281IbnAbiDunya.Warac,priority,,
-0281IbnAbiDunya.Yaqin,,,issue added
 0281IbnAbiDunya.Zuhd,priority,,
 0282AbuHanifaDinawari.AkhbarTiwal,priority,,
 0283IbnRumi.Diwan,priority,,
