@@ -1,4 +1,5 @@
-BookURI,Stage1,Stage2,Stage3,issue added
+BookURI,Stage1,Stage2,Stage3,Stage4
+0310Tabari.SarihSunna,,,probably done,issue added
 0276IbnQutaybaDinawari.Macarif,,,,issue added
 0280IbnTayfur.Baghdad,,,,issue added
 0292Yacqubi.TarikhYacqubi,,,,issue added
@@ -13,7 +14,9 @@ BookURI,Stage1,Stage2,Stage3,issue added
 0412Sulami.TabaqatSufiya,,,,issue added
 0427HamzaJurjani.TarikhJurjan,,,,issue added
 0450Najashi.Rijal,,,,issue added
+0571IbnCasakir.TarikhDimashq,,,,issue added
 0578IbnBashkuwal.Sila,,,,issue added
+0597IbnJawzi.Muntazam,,,,issue added
 0630IbnAthirCizzDin.LubabFiTahdhibAnsab,,,,issue added
 0658IbnAbbar.TakmilaLiSila,,,,issue added
 0681IbnKhallikan.WafayatAcyan,,,,issue added
@@ -28,13 +31,13 @@ BookURI,Stage1,Stage2,Stage3,issue added
 1206Muradi.SilkDurar,,,,issue added
 1339IsmacilBashaBaghdadi.HadiyatCarifin,,,,issue added
 1396KhayrDinZirikli.Aclam,,,,issue added
-0300IbnKhurdadhbih.MasalikWaMamalik,,,completed,
-0346Mascudi.AkhbarZaman,,,completed,
-0347IbnYunusSadafi.Tarikh,,,completed,
+0300IbnKhurdadhbih.MasalikWaMamalik,,,,issue added
+0346Mascudi.AkhbarZaman,,,,issue added
+0347IbnYunusSadafi.Tarikh,,,,issue added
 0390Muqaddasi.AhsanTaqasim,,,completed,
 0429AbuMansurThacalibi.YatimaDahr,,,completed,
 0430AbuNucaymIsbahani.HilyaAwliya,,,completed,
-0430AbuNucaymIsbahani.TarikhIsbahan,,,completed,
+0430AbuNucaymIsbahani.TarikhIsbahan,,,,issue added
 0442Tanukhi.TarikhCulamaNahwiyyin,,,completed,
 0446AbuYaclaKhalili.IrshadFiMacrifaCulama,,,completed,
 0458Bayhaqi.DalailNubuwwa,,,completed,
@@ -52,9 +55,7 @@ BookURI,Stage1,Stage2,Stage3,issue added
 0555IbnQalanisi.Tarikh,,,completed,
 0561Samcani.Ansab,,,completed,
 0565IbnZaydBayhaqi.TarikhBayhaq,,,completed,
-0571IbnCasakir.TarikhDimashq,,,,issue added
 0577IbnAnbari.NuzhaAlibba,,,completed,
-0597IbnJawzi.Muntazam,,,,issue added
 0597IbnJawzi.SifaSafwa,,,completed,
 0626YaqutHamawi.MucjamBuldan,,,completed,
 0626YaqutHamawi.MucjamUdaba,,,completed,
@@ -180,7 +181,6 @@ BookURI,Stage1,Stage2,Stage3,issue added
 0281IbnAbiDunya.Tawba,,,probably done,
 0281IbnAbiDunya.WajalWaTawaththuq,,,probably done,
 0286Mubarrad.NasabCadnan,,,probably done,
-0310Tabari.SarihSunna,,,probably done,issue added
 0319IbnMundhirNaysaburi.TafsirQuran,,,probably done,
 0354IbnHibbanBusti.Sira,,,probably done,
 0427IbnMuhammadThacalibi.KashfWaBayan,,,probably done,
