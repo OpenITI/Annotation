@@ -1,9 +1,21 @@
 BookURI,Stage1,Stage2,Stage3
+0151IbnIshaq.Sira,,,issue added
+0207Waqidi.Maghazi,,,issue added
+0213IbnHisham.Tijan,,,issue added
+0230IbnSacd.TabaqatKubra,,,issue added
+0240KhalifaIbnKhayyat.Tabaqat,,,issue added
+0241IbnHanbal.AhkamNisa,,,issue added
+0241IbnHanbal.Musnad,,,issue added
 0276IbnQutaybaDinawari.Macarif,,,issue added
+0279Baladhuri.AnsabAshraf,,,issue added
 0280IbnTayfur.Baghdad,,,issue added
+0281IbnAbiDunya.CumrWaShayb,,,issue added
+0281IbnAbiDunya.Manamat,,,issue added
+0285IbnYazidMubarrad.NasabCadnan,,,issue added
 0292Yacqubi.TarikhYacqubi,,,issue added
 0300IbnKhurdadhbih.MasalikWaMamalik,,,issue added
 0310Tabari.SarihSunna,,,issue added
+0319IbnMundhirNaysaburi.TafsirQuran,,,issue added
 0346Mascudi.AkhbarZaman,,,issue added
 0347IbnYunusSadafi.Tarikh,,,issue added
 0355MuhammadKindi.WulatMisr,,,issue added
@@ -17,6 +29,11 @@ BookURI,Stage1,Stage2,Stage3
 0405HakimNaysaburi.TalkhisTarikhNaysabur,,,issue added
 0412Sulami.TabaqatSufiya,,,issue added
 0427HamzaJurjani.TarikhJurjan,,,issue added
+0427IbnMuhammadThacalibi.KashfWaBayan,,,issue added
+0428IbnSina.IsharatWaTanbihat,,,issue added
+0429AbuMansurThacalibi.ManGhabaCanhuMutrib,,,issue added
+0429AbuMansurThacalibi.Muntahal,,,issue added
+0429AbuMansurThacalibi.SihrBalagha,,,issue added
 0429AbuMansurThacalibi.YatimaDahr,,,issue added
 0430AbuNucaymIsbahani.HilyaAwliya,,,issue added
 0430AbuNucaymIsbahani.TarikhIsbahan,,,issue added
@@ -32,6 +49,7 @@ BookURI,Stage1,Stage2,Stage3
 0476AbuIshaqShirazi.TabaqatFuqaha,,,issue added
 0482AbuIshaqHabbal.WafayatMisriyyin,,,issue added
 0507AbuBakrShashi.HilyaCulama,,,issue added
+0510IbnMascudBaghawi.Tafsir,,,issue added
 0524IbnAkfani.DhaylDhaylTarikhMawlidCulama,,,issue added
 0526IbnAbiYacla.TabaqatHanabila,,,issue added
 0544CiyadIbnMusaYahsubi.TartibMadarik,,,issue added
@@ -47,9 +65,13 @@ BookURI,Stage1,Stage2,Stage3
 0626YaqutHamawi.MucjamUdaba,,,issue added
 0630IbnAthirCizzDin.Kamil,,,issue added
 0630IbnAthirCizzDin.LubabFiTahdhibAnsab,,,issue added
+0630IbnAthirCizzDin.UsdGhaba,,,issue added
+0634AbuRabicHimyari.Iktifa,,,issue added
+0637IbnMustafwi.TarikhIrbil,,,issue added
 0640AbuHafsDunaysiri.TarikhDunaysir,,,issue added
 0642IbnNajjar.DhaylTarikhBaghdad,,,issue added
 0643IbnSalahShahrazuri.TabaqatFuqaha,,,issue added
+0646IbnQifti.IkhbarCulama,,,issue added
 0658IbnAbbar.HullaSiyara,,,issue added
 0658IbnAbbar.MucjamAshab,,,issue added
 0658IbnAbbar.TakmilaLiSila,,,issue added
@@ -83,51 +105,44 @@ BookURI,Stage1,Stage2,Stage3
 0748Dhahabi.SiyarAclamNubala,,,issue added
 0748Dhahabi.TadhkiraHuffaz,,,issue added
 0748Dhahabi.TarikhIslam,,,issue added
-0771Subki.TabaqatShaficiyaKubra,,,issue added
-0774IbnKathir.TabaqatShaficiyyin,,,issue added
-0774IbnKathir.TafsirQuran,,,issue added
-0900AbuCabdAllahHimyari.RawdMictar,,,issue added
-0911Suyuti.LubbLubab,,,issue added
-1089IbnCimad.Shadharat,,,issue added
-1100IbnMuhammadAdnahwi.TabaqatMufassirin,,,issue added
-1206Muradi.SilkDurar,,,issue added
-1339IsmacilBashaBaghdadi.HadiyatCarifin,,,issue added
-1396KhayrDinZirikli.Aclam,,,issue added
 0762MughaltayIbnQalij.IkmalTahdhib,,,issue added
 0764IbnShakirKutubi.FawatWafayat,,,issue added
 0764Safadi.AcyanCasr,,,issue added
 0764Safadi.WafiBiWafayat,,,issue added
 0768Yafici.MiratJanan,,,issue added
-0774IbnRaficSallami.Wafayat,,completed,issue added
+0771Subki.TabaqatShaficiyaKubra,,,issue added
+0774IbnKathir.Bidaya,,,issue added
+0774IbnKathir.TabaqatShaficiyyin,,,issue added
+0774IbnKathir.TafsirQuran,,,issue added
+0774IbnRaficSallami.Wafayat,,,issue added
 0795IbnRajabHanbali.DhaylTabaqatHanabila,,,issue added
-0845Maqrizi.Suluk,,completed,
+0845Maqrizi.Suluk,,,issue added
 0852IbnHajarCasqalani.DurarKamina,,,issue added
-0852IbnHajarCasqalani.IsabaFiTamyiz,,completed,
+0852IbnHajarCasqalani.IsabaFiTamyiz,,,issue added
 0852IbnHajarCasqalani.TahdhibTahdhib,,,issue added
-0874IbnTaghribirdi.NujumZahira,,completed,
+0874IbnTaghribirdi.NujumZahira,,,issue added
 0879IbnQutlubugha.Thiqat,,,issue added
-0911Suyuti.BughyaWucat,,completed,
+0900AbuCabdAllahHimyari.RawdMictar,,,issue added
+0911Suyuti.BughyaWucat,,,issue added
+0911Suyuti.LubbLubab,,,issue added
 0911Suyuti.TabaqatHuffaz,,,issue added
-0923IbnCabdAllahKhazraji.KhulasaTahdhib,,completed,
+0923IbnCabdAllahKhazraji.KhulasaTahdhib,,,issue added
+0927Nucaymi.DarisFiMadaris,,,issue added
 1061NajmDinGhazzi.KawakibSaira,,,issue added
-0151IbnIshaq.Sira,,probably done,
-0207Waqidi.Maghazi,,probably done,
-0213IbnHisham.Tijan,,,issue added
-0234IbnAbiShayba.Musannaf,,probably done,
-0240KhalifaIbnKhayyat.Musnad,,probably done,
-0240KhalifaIbnKhayyat.Tabaqat,,,issue added
-0241IbnHanbal.AhkamNisa,,probably done,
-0241IbnHanbal.CaqidaRiwayatKhallal,,probably done,
-0241IbnHanbal.CilalWaMacrifa,,probably done,
-0241IbnHanbal.FadailSahaba,,probably done,
-0241IbnHanbal.JamicFiCilal,,probably done,
+1089IbnCimad.Shadharat,,,issue added
+1100IbnMuhammadAdnahwi.TabaqatMufassirin,,,issue added
+1206Muradi.SilkDurar,,,issue added
+1339IsmacilBashaBaghdadi.HadiyatCarifin,,,issue added
+1396KhayrDinZirikli.Aclam,,,issue added
+0241IbnHanbal.CilalWaMacrifa,,,issue added
+0241IbnHanbal.FadailSahaba,,,issue added
+0241IbnHanbal.JamicFiCilal,,,issue added
 0241IbnHanbal.MasailRiwayatCabdAllah,,probably done,
 0241IbnHanbal.MasailRiwayatSalih,,probably done,
 0241IbnHanbal.MinSualatIbnMuhammadAthram,,probably done,
-0241IbnHanbal.Musnad,,probably done,
 0241IbnHanbal.RaddCalaZanadiqa,,probably done,
 0245MuhammadIbnHabib.Muhabbar,,probably done,
-0249Azraqi.AkhbarMakka,,probably done,
+0249Azraqi.AkhbarMakka,,,issue added
 0255Jahiz.BayanWaTabyin,,probably done,
 0255Jahiz.Bighal,,probably done,
 0255Jahiz.Bukhala,,probably done,
@@ -141,7 +156,6 @@ BookURI,Stage1,Stage2,Stage3
 0257IbnCabdHakam.FutuhMisr,,probably done,
 0272Fakihi.AkhbarMakka,,probably done,
 0276IbnQutaybaDinawari.TawilMukhtalafHadith,,probably done,
-0279Baladhuri.AnsabAshraf,,probably done,
 0279Baladhuri.FutuhBuldan,,probably done,
 0280CuthmanIbnSacidDarimi.RaddCalaJahmiyya,,probably done,
 0281AbuZurcaDimashqi.Tarikh,,probably done,
@@ -149,7 +163,6 @@ BookURI,Stage1,Stage2,Stage3
 0281IbnAbiDunya.Awliya,,probably done,
 0281IbnAbiDunya.CaqlWaFadluh,,probably done,
 0281IbnAbiDunya.Ciyal,,probably done,
-0281IbnAbiDunya.CumrWaShayb,,probably done,
 0281IbnAbiDunya.Cuqubat,,probably done,
 0281IbnAbiDunya.Cuzla,,probably done,
 0281IbnAbiDunya.DhammBaghy,,probably done,
@@ -167,7 +180,6 @@ BookURI,Stage1,Stage2,Stage3
 0281IbnAbiDunya.KalamLayali,,probably done,
 0281IbnAbiDunya.MakaidShaytan,,probably done,
 0281IbnAbiDunya.MakarimAkhlaq,,probably done,
-0281IbnAbiDunya.Manamat,,,issue added
 0281IbnAbiDunya.ManCashaBacdaMawt,,probably done,
 0281IbnAbiDunya.MaqtalCali,,probably done,
 0281IbnAbiDunya.MaradWaKaffarat,,probably done,
@@ -180,39 +192,8 @@ BookURI,Stage1,Stage2,Stage3
 0281IbnAbiDunya.SamtWaAdab,,probably done,
 0281IbnAbiDunya.Tawba,,probably done,
 0281IbnAbiDunya.WajalWaTawaththuq,,probably done,
-0286Mubarrad.NasabCadnan,,probably done,
-0319IbnMundhirNaysaburi.TafsirQuran,,probably done,
-0354IbnHibbanBusti.Sira,,probably done,
-0427IbnMuhammadThacalibi.KashfWaBayan,,probably done,
-0428IbnSina.IsharatWaTanbihat,,probably done,
-0429AbuMansurThacalibi.ManGhabaCanhuMutrib,,probably done,
-0429AbuMansurThacalibi.Muntahal,,probably done,
-0429AbuMansurThacalibi.SihrBalagha,,probably done,
-0510IbnMascudBaghawi.Tafsir,,probably done,
-0630IbnAthirCizzDin.UsdGhaba,,probably done,
-0634AbuRabicHimyari.Iktifa,,probably done,
-0637IbnMustafwi.TarikhIrbil,,probably done,
-0734IbnSayyidNas.CuyunAthar,,probably done,
-0110HasanBasri.FadailMakka,inProgress,,
-0195MuarrijSadusi.HadhfMinNasabQuraysh,inProgress,,
-0230IbnSacd.TabaqatKubra,inProgress,,
-0256Bukhari.TarikhKabir,inProgress,,
-0282AbuHanifaDinawari.AkhbarTiwal,inProgress,,
-0306IbnHayyanDabbi.AkhbarQudat,inProgress,,
-0310Tabari.Tarikh,inProgress,,
-0365IbnFaqihHamadhani.Buldan,inProgress,,
-0400IbnTahirMaqdisi.BadWaTarikh,inProgress,,
-0421Miskawayh.Tajarib,inProgress,,
-0646IbnQifti.IkhbarCulama,inProgress,,
-0726Yunini.DhaylMiratZaman,inProgress,,
-0732AbuFida.MukhtasarFiAkhbar,inProgress,,
-0774IbnKathir.Bidaya,inProgress,,
-0808IbnKhaldun.Tarikh,inProgress,,
-0851IbnQadiShuhba.TabaqatShaficiya,,inProgress,
-0855BadrDinCayni.CumdatQari,inProgress,,
-0902Sakhawi.DawLamic,inProgress,,
-0927Nucaymi.DarisFiMadaris,inProgress,,
-1371MuhsinCamili.AcyanShica,inProgress,,
+0110HasanBasri.FadailMakka,priority,,
+0195MuarrijSadusi.HadhfMinNasabQuraysh,priority,,
 0200IbnCumarDabbi.Fitna,priority,,
 0204IbnKalbi.AnsabKhayl,priority,,
 0204IbnKalbi.JamharatAnsab,priority,,
@@ -229,12 +210,16 @@ BookURI,Stage1,Stage2,Stage3
 0233YahyaIbnMacin.MinKalamFiRijal,priority,,
 0233YahyaIbnMacin.TarikhIbnMacin,priority,,
 0234AbuHasanSacdi.TasmiyatManRuwiya,priority,,
+0234IbnAbiShayba.Musannaf,priority,,
+0240KhalifaIbnKhayyat.Musnad,priority,,
 0240KhalifaIbnKhayyat.Tarikh,priority,,
 0241IbnHanbal.AsamiWaKuna,priority,,
+0241IbnHanbal.CaqidaRiwayatKhallal,priority,,
 0241IbnHanbal.UsulSunna,priority,,
 0245MuhammadIbnHabib.MukhtalafQabail,priority,,
 0256Bukhari.Ducafa,priority,,
 0256Bukhari.DucafaSaghir,priority,,
+0256Bukhari.TarikhKabir,priority,,
 0256Bukhari.TarikhSaghir,priority,,
 0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat,priority,,
 0256ZubayrIbnBakkar.JamharatNasabQuraysh,priority,,
@@ -248,8 +233,8 @@ BookURI,Stage1,Stage2,Stage3
 0277IbnSufyanFasawi.Mashyakha,priority,,
 0279IbnAbiKhaythama.TarikhKabir,priority,,
 0279Tirmidhi.CilalSaghir,priority,,
-0281IbnAbiDunya.Ahwal,priority,,
-0281IbnAbiDunya.Hilm,priority,,
+0281IbnAbiDunya.Ahwal,,,issue added
+0281IbnAbiDunya.Hilm,,,issue added
 0281IbnAbiDunya.HilmMucawiya,priority,,
 0281IbnAbiDunya.HusnZannBiLlah,priority,,
 0281IbnAbiDunya.IctibarWaAcqab,priority,,
@@ -270,8 +255,9 @@ BookURI,Stage1,Stage2,Stage3
 0281IbnAbiDunya.Tahajjud,priority,,
 0281IbnAbiDunya.TawaducWaKhumul,priority,,
 0281IbnAbiDunya.Warac,priority,,
-0281IbnAbiDunya.Yaqin,priority,,
+0281IbnAbiDunya.Yaqin,,,issue added
 0281IbnAbiDunya.Zuhd,priority,,
+0282AbuHanifaDinawari.AkhbarTiwal,priority,,
 0283IbnRumi.Diwan,priority,,
 0285IbnYazidMubarrad.Fadil,priority,,
 0285IbnYazidMubarrad.KamilFiLugha,priority,,
@@ -297,6 +283,7 @@ BookURI,Stage1,Stage2,Stage3
 0303Nasai.TasmiyaFuqaha,priority,,
 0303Nasai.TasmiyaManLamYarwi,priority,,
 0303Nasai.TasmiyaShuyukh,priority,,
+0306IbnHayyanDabbi.AkhbarQudat,priority,,
 0309IbnFadlan.Rihla,priority,,
 0309IbnMarzuban.DhammThuqala,priority,,
 0309IbnMarzuban.FadlKilab,priority,,
@@ -306,6 +293,7 @@ BookURI,Stage1,Stage2,Stage3
 0310Tabari.MuntakhabMinDhayl,priority,,
 0310Tabari.TabsirFiMacalimDin,priority,,
 0310Tabari.TahdhibAthar,priority,,
+0310Tabari.Tarikh,priority,,
 0313IbnZakariyaRazi.HawiFiTibb,priority,,
 0313IbnZakariyaRazi.RasailFalsafiyya,priority,,
 0314IbnActhamKufi.Futuh,priority,,
@@ -345,6 +333,7 @@ BookURI,Stage1,Stage2,Stage3
 0354IbnHibbanBusti.Majruhin,priority,,
 0354IbnHibbanBusti.MashahirCulamaAmsar,priority,,
 0354IbnHibbanBusti.RawdatCuqala,priority,,
+0354IbnHibbanBusti.Sira,priority,,
 0354IbnHibbanBusti.Thiqat,priority,,
 0354Mutanabbi.Diwan,priority,,
 0355AbuFarajIsbahani.Aghani,priority,,
@@ -358,6 +347,7 @@ BookURI,Stage1,Stage2,Stage3
 0363QadiNucman.SharhAkhbar,priority,,
 0365IbnCadiJurjani.AsamiManRawaCanhum,priority,,
 0365IbnCadiJurjani.KamilFiDucafa,priority,,
+0365IbnFaqihHamadhani.Buldan,priority,,
 0367IbnHawqal.SuraArd,priority,,
 0368AbuGhalibZurari.Risala,priority,,
 0368Sirafi.AkhbarNahwiyyin,priority,,
@@ -429,6 +419,7 @@ BookURI,Stage1,Stage2,Stage3
 0395IbnMandahMuhammad.FathBab,priority,,
 0395IbnMandahMuhammad.MacrifaSahaba,priority,,
 0398AbuNasrKalabadhi.HidayaWaIrshad,priority,,
+0400IbnTahirMaqdisi.BadWaTarikh,priority,,
 0400MuallifMajhul.HududCalam,priority,,
 0405AbuFadlHarawi.MucjamFiMushtabah,priority,,
 0405HakimNaysaburi.TasmiyaManAkhrajahum,priority,,
@@ -438,6 +429,7 @@ BookURI,Stage1,Stage2,Stage3
 0421IbnMuhammadMarzuqi.SharhDiwanHamasa,priority,,
 0421Miskawayh.HawamilWaShawamil,priority,,
 0421Miskawayh.TahdhibAkhlaq,priority,,
+0421Miskawayh.Tajarib,priority,,
 0426IbnAhmadIbnShadhan.MashyakhaSughra,priority,,
 0428IbnManjuwayhIsbahani.RijalSahihMuslim,priority,,
 0428IbnSina.Mantiq,priority,,
@@ -598,8 +590,11 @@ BookURI,Stage1,Stage2,Stage3
 0725KhazinBaghdadi.LubabTawil,priority,,
 0726CallamaHilli.KhulasatAqwal,priority,,
 0726CallamaHilli.TadhkiratFuqaha,priority,,
+0726Yunini.DhaylMiratZaman,priority,,
 0730MuhammadTujibi.Barnamaj,priority,,
+0732AbuFida.MukhtasarFiAkhbar,priority,,
 0733IbnJamacaBadrDinHamawi.Mashyakha,priority,,
+0734IbnSayyidNas.CuyunAthar,priority,,
 0739IbnMuhammadBirzaliIshbili.Mashyakha,priority,,
 0740IbnDawudHilli.Rijal,priority,,
 0741KhatibTabrizi.Ikmal,priority,,
@@ -636,6 +631,7 @@ BookURI,Stage1,Stage2,Stage3
 0806IbnHusaynZaynDinCiraqi.DhaylMizan,priority,,
 0807IbnAhmarKhazraji.NafhaNisriniyya,priority,,
 0808IbnKhaldun.Rihla,priority,,
+0808IbnKhaldun.Tarikh,priority,,
 0809IbnQunfudh.Wafayat,priority,,
 0812CaliKhazraji.CuqudLuluiyya,priority,,
 0816AbuBakrMaraghi.Mashyakha,priority,,
@@ -657,6 +653,7 @@ BookURI,Stage1,Stage2,Stage3
 0845Maqrizi.IqazHunafa,priority,,
 0845Maqrizi.Mawaciz,priority,,
 0845Maqrizi.MukhtasarKamil,priority,,
+0851IbnQadiShuhba.TabaqatShaficiya,priority,,
 0852IbnHajarCasqalani.FathBari,priority,,
 0852IbnHajarCasqalani.InbaGhumr,priority,,
 0852IbnHajarCasqalani.ItharBiMacrifa,priority,,
@@ -670,6 +667,7 @@ BookURI,Stage1,Stage2,Stage3
 0852IbnHajarCasqalani.TaqribTahdhib,priority,,
 0854IbnDiyaMakki.TarikhMakka,priority,,
 0855BadrDinCayni.CiqdJuman,priority,,
+0855BadrDinCayni.CumdatQari,priority,,
 0855BadrDinCayni.MaghaniAkhyar,priority,,
 0871IbnFahdMakki.LahzAlhaz,priority,,
 0874IbnTaghribirdi.HawadithDahriya,priority,,
@@ -680,6 +678,7 @@ BookURI,Stage1,Stage2,Stage3
 0884IbnMuflih.MaqsidArshad,priority,,
 0893IbnAbiBakrHadari.BahjatMahafil,priority,,
 0902Sakhawi.Buldaniyyat,priority,,
+0902Sakhawi.DawLamic,priority,,
 0902Sakhawi.ManhalCadhb,priority,,
 0902Sakhawi.TuhfaLatifa,priority,,
 0904Burayhi.TabaqatSulahaYaman,priority,,
@@ -775,6 +774,7 @@ BookURI,Stage1,Stage2,Stage3
 1359CabbasQummi.Kuna,priority,,
 1360IbnQasimMakhluf.ShajaraNur,priority,,
 1368HasanAmin.MustadrakatAcyanShica,priority,,
+1371MuhsinCamili.AcyanShica,priority,,
 1372KurdCali.KhitatSham,priority,,
 1376CabdRahmanSacdi.Muallafat,priority,,
 1381MuhammadSancani.MulhaqBadr,priority,,
