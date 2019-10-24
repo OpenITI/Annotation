@@ -1,17 +1,28 @@
-BookURI,Stage1,Stage2,Stage3,Stage4
+BookURI,Stage1,Stage2,Stage3,issue added
+1100IbnMuhammadAdnahwi.TabaqatMufassirin,,,,issue added
+0276IbnQutaybaDinawari.Macarif,,,,issue added
+0280IbnTayfur.Baghdad,,,,issue added
 0355MuhammadKindi.WulatMisr,,,,issue added
 0369AbuShaykhIsbahani.TabaqatMuhaddithin,,,,issue added
+0385Daruqutni.Nuzul,,,,issue added
+0385Daruqutni.Sifat,,,,issue added
 0403IbnFaradi.TarikhCulamaAndalus,,,,issue added
 0405HakimNaysaburi.TalkhisTarikhNaysabur,,,,issue added
+0427HamzaJurjani.TarikhJurjan,,,,issue added
+0578IbnBashkuwal.Sila,,,,issue added
 0630IbnAthirCizzDin.LubabFiTahdhibAnsab,,,,issue added
+0658IbnAbbar.TakmilaLiSila,,,,issue added
+0681IbnKhallikan.WafayatAcyan,,,,issue added
+0733Nuwayri.NihayaArab,,,,issue added
+0748Dhahabi.TarikhIslam,,,,issue added
 0771Subki.TabaqatShaficiyaKubra,,,,issue added
 0774IbnKathir.TabaqatShaficiyyin,,,,issue added
+0774IbnKathir.TafsirQuran,,,,issue added
 0900AbuCabdAllahHimyari.RawdMictar,,,,issue added
 0911Suyuti.LubbLubab,,,,issue added
+1206Muradi.SilkDurar,,,,issue added
 1339IsmacilBashaBaghdadi.HadiyatCarifin,,,,issue added
-0748Dhahabi.TarikhIslam,,,,issue added
-0276IbnQutaybaDinawari.Macarif,,,completed,
-0280IbnTayfur.Baghdad,,,completed,
+1396KhayrDinZirikli.Aclam,,,,issue added
 0292Yacqubi.TarikhYacqubi,,,completed,
 0300IbnKhurdadhbih.MasalikWaMamalik,,,completed,
 0346Mascudi.AkhbarZaman,,,completed,
@@ -98,13 +109,6 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0923IbnCabdAllahKhazraji.KhulasaTahdhib,,,completed,
 1061NajmDinGhazzi.KawakibSaira,,,completed,
 1089IbnCimad.Shadharat,,,completed,
-1100IbnMuhammadAdnahwi.TabaqatMufassirin,,,completed,
-1206Muradi.SilkDurar,,,completed,
-1396KhayrDinZirikli.Aclam,,,completed,
-0427HamzaJurjani.TarikhJurjan,,,completed+,
-0578IbnBashkuwal.Sila,,,completed+,
-0658IbnAbbar.TakmilaLiSila,,,completed+,
-0681IbnKhallikan.WafayatAcyan,,,completed+,
 0151IbnIshaq.Sira,,,probably done,
 0207Waqidi.Maghazi,,,probably done,
 0213IbnHisham.Tijan,,,probably done,
@@ -179,8 +183,6 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0310Tabari.SarihSunna,,,probably done,
 0319IbnMundhirNaysaburi.TafsirQuran,,,probably done,
 0354IbnHibbanBusti.Sira,,,probably done,
-0385Daruqutni.Nuzul,,,probably done,
-0385Daruqutni.Sifat,,,probably done,
 0427IbnMuhammadThacalibi.KashfWaBayan,,,probably done,
 0428IbnSina.IsharatWaTanbihat,,,probably done,
 0429AbuMansurThacalibi.ManGhabaCanhuMutrib,,,probably done,
@@ -190,9 +192,7 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0630IbnAthirCizzDin.UsdGhaba,,,probably done,
 0634AbuRabicHimyari.Iktifa,,,probably done,
 0637IbnMustafwi.TarikhIrbil,,,probably done,
-0733Nuwayri.NihayaArab,,,,issue  added
 0734IbnSayyidNas.CuyunAthar,,,probably done,
-0774IbnKathir.TafsirQuran,,,,issue  added
 0110HasanBasri.FadailMakka,,inProgress,,
 0195MuarrijSadusi.HadhfMinNasabQuraysh,,inProgress,,
 0230IbnSacd.TabaqatKubra,,inProgress,,
