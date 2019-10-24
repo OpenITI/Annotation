@@ -42,10 +42,38 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0577IbnAnbari.NuzhaAlibba,,,,issue added
 0578IbnBashkuwal.Sila,,,,issue added
 0597IbnJawzi.Muntazam,,,,issue added
+0597IbnJawzi.SifaSafwa,,,,issue added
+0626YaqutHamawi.MucjamBuldan,,,,issue added
+0626YaqutHamawi.MucjamUdaba,,,,issue added
+0630IbnAthirCizzDin.Kamil,,,,issue added
 0630IbnAthirCizzDin.LubabFiTahdhibAnsab,,,,issue added
+0640AbuHafsDunaysiri.TarikhDunaysir,,,,issue added
+0642IbnNajjar.DhaylTarikhBaghdad,,,,issue added
+0643IbnSalahShahrazuri.TabaqatFuqaha,,,,issue added
+0658IbnAbbar.HullaSiyara,,,,issue added
+0658IbnAbbar.MucjamAshab,,,,issue added
 0658IbnAbbar.TakmilaLiSila,,,,issue added
+0658IbnAbbar.TuhfaQadim,,,,issue added
+0660IbnCadim.BughyatTalib,,,,issue added
+0660IbnCadim.ZubdaHalab,,,,issue added
+0665AbuShama.Rawdatayn,,,,issue added
+0680IbnSabuni.TakmilaIkmalIkmal,,,,issue added
 0681IbnKhallikan.WafayatAcyan,,,,issue added
+0685IbnCibri.TarikhMukhtasarDuwal,,,,issue added
+0711IbnManzurIfriqi.MukhtasarTarikhDimashq,,,,issue added
+0732IbnYacqubJanadi.SulukFiTabaqat,,,,issue added
 0733Nuwayri.NihayaArab,,,,issue added
+0742Mizzi.TahdhibKamal,,,,issue added
+0748Dhahabi.CibarFiKhabar,,,,issue added
+0748Dhahabi.MucinFiTabaqatMuhaddithin,,,,issue added
+0748Dhahabi.MucjamMuhaddithin,,,,issue added
+0748Dhahabi.MucjamShuyukh,,,,issue added
+0748Dhahabi.MughniFiDucafa,,,,issue added
+0748Dhahabi.MukhtasarCuluww,,,,issue added
+0748Dhahabi.MukhtasarMinDubaythi,,,,issue added
+0748Dhahabi.Muqtana,,,,issue added
+0748Dhahabi.SiyarAclamNubala,,,,issue added
+0748Dhahabi.TadhkiraHuffaz,,,,issue added
 0748Dhahabi.TarikhIslam,,,,issue added
 0771Subki.TabaqatShaficiyaKubra,,,,issue added
 0774IbnKathir.TabaqatShaficiyyin,,,,issue added
@@ -57,25 +85,6 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 1206Muradi.SilkDurar,,,,issue added
 1339IsmacilBashaBaghdadi.HadiyatCarifin,,,,issue added
 1396KhayrDinZirikli.Aclam,,,,issue added
-0597IbnJawzi.SifaSafwa,,,,issue added
-0626YaqutHamawi.MucjamBuldan,,,,issue added
-0626YaqutHamawi.MucjamUdaba,,,,issue added
-0630IbnAthirCizzDin.Kamil,,,,issue added
-0640AbuHafsDunaysiri.TarikhDunaysir,,,,issue added
-0642IbnNajjar.DhaylTarikhBaghdad,,,,issue added
-0643IbnSalahShahrazuri.TabaqatFuqaha,,,,issue added
-0658IbnAbbar.HullaSiyara,,,,issue added
-0658IbnAbbar.MucjamAshab,,,,issue added
-0658IbnAbbar.TuhfaQadim,,,,issue added
-0660IbnCadim.BughyatTalib,,,,issue added
-0660IbnCadim.ZubdaHalab,,,,issue added
-0665AbuShama.Rawdatayn,,,completed,
-0680IbnSabuni.TakmilaIkmalIkmal,,,completed,
-0685IbnCibri.TarikhMukhtasarDuwal,,,completed,
-0711IbnManzurIfriqi.MukhtasarTarikhDimashq,,,completed,
-0732IbnYacqubJanadi.SulukFiTabaqat,,,completed,
-0742Mizzi.TahdhibKamal,,,completed,
-0748Dhahabi.CibarFiKhabar,,,completed,
 0748Dhahabi.Culuww,,,completed,
 0748Dhahabi.DhaylCibar,,,completed,
 0748Dhahabi.DhaylDiwanDucafa,,,completed,
@@ -84,15 +93,6 @@ BookURI,Stage1,Stage2,Stage3,Stage4
 0748Dhahabi.Kashif,,,completed,
 0748Dhahabi.MacrifaQurraKibar,,,completed,
 0748Dhahabi.MizanIctidal,,,completed,
-0748Dhahabi.MucinFiTabaqatMuhaddithin,,,completed,
-0748Dhahabi.MucjamMuhaddithin,,,completed,
-0748Dhahabi.MucjamShuyukh,,,completed,
-0748Dhahabi.MughniFiDucafa,,,completed,
-0748Dhahabi.MukhtasarCuluww,,,completed,
-0748Dhahabi.MukhtasarMinDubaythi,,,completed,
-0748Dhahabi.Muqtana,,,completed,
-0748Dhahabi.SiyarAclamNubala,,,completed,
-0748Dhahabi.TadhkiraHuffaz,,,completed,
 0762MughaltayIbnQalij.IkmalTahdhib,,,completed,
 0764IbnShakirKutubi.FawatWafayat,,,completed,
 0764Safadi.AcyanCasr,,,completed,
