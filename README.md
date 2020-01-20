@@ -31,7 +31,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | IDs | FULL NAME OF AN INDIVIDUAL |
 |:---|:---|
 | GVDB | Gowaart Van Den Bossche, KITAB |
-| Khismatulin |  Dr. Alexei Khismatulin, IOM RAS, St.Peterburg |
+| Khismatulin | Alexei Khismatulin, IOM RAS, St.Peterburg |
 | MSG | Maxim Romanov, Vienna / KITAB  |
 | SBS | Sarah Bowen Savant, KITAB |
 
