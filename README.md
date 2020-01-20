@@ -32,6 +32,6 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 |:---|:---|
 | GVDB | Gowaart Van Den Bossche, KITAB |
 | Khismatulin | Alexei Khismatulin, IOM RAS, St.Peterburg |
-| MSG | Maxim Romanov, Vienna / KITAB  |
+| MGR | Maxim Romanov, Vienna / KITAB  |
 | SBS | Sarah Bowen Savant, KITAB |
 
