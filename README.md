@@ -21,7 +21,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 |:---|:---|
 | JK | *al-Jāmiʿ al-kabīr* |
 | Sham30K | *al-Maktabaŧ al-Šāmilaŧ*, official version + additional texts, downloaded from https://archive.org/details/SHAMELH30-1-20 |
-| Shamela | *al-Maktabaŧ al-Šāmilaŧ* |
+| Shamela | *al-Maktabaŧ al-Šāmilaŧ*, www.shamela.ws |
 | Shia | http://shiaonlinelibrary.com |
 | Yatim | (texts for which we do not have text files yet) |
 
