@@ -12,3 +12,11 @@ The complete description of the annotation workflow can be found [here](https://
 # A note for the project curators
 
 You can create an `URGENT` issue to assignn specific text to a specific person. Go to `ISSUES` > `New Issue` > select `URGENT` template > Follow the instructions in the template. 
+
+# Used IDs
+
+| ABBREVIATION   | FUlL REFERENCE|
+|:---|:---|
+| GVDB | Gowaart Van Den Bosche |
+|   |   |
+|   |   |
