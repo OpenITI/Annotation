@@ -20,14 +20,18 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | ID | FULL NAME OF A COLLECTION |
 |:---|:---|
 | JK | *al-Jāmiʿ al-kabīr* |
+| Sham30K | *al-Maktabaŧ al-Šāmilaŧ*, official version + additional texts, downloaded from https://archive.org/details/SHAMELH30-1-20 |
 | Shamela | *al-Maktabaŧ al-Šāmilaŧ* |
-|   |   |
+| Shia | http://shiaonlinelibrary.com |
+| Yatim | (texts for which we do not have text files yet) |
 
 
 ## IDs for Individual Contributions
 
 | IDs | FULL NAME OF AN INDIVIDUAL |
 |:---|:---|
-| GVDB | Gowaart Van Den Bossche |
-|   |   |
-|   |   |
+| GVDB | Gowaart Van Den Bossche, KITAB |
+| Khismatulin |  Dr. Alexei Khismatulin, IOM RAS, St.Peterburg |
+| MSG | Maxim Romanov, Vienna / KITAB  |
+| SBS | Sarah Bowen Savant, KITAB |
+
