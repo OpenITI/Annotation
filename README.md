@@ -15,7 +15,18 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 # Used IDs
 
-| ABBREVIATION   | FUlL REFERENCE|
+## IDs for Collections
+
+| ID | FULL NAME OF COLLECTION |
+|:---|:---|
+| JK | *al-Jāmiʿ al-kabīr* |
+| Shamela | *al-Maktabaŧ al-Šāmilaŧ* |
+|   |   |
+
+
+## IDs for Individual Contributions
+
+| IDs | FULL NAME OF COLLECTION |
 |:---|:---|
 | GVDB | Gowaart Van Den Bosche |
 |   |   |
