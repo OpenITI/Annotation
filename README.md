@@ -17,7 +17,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 ## IDs for Collections
 
-| ID | FULL NAME OF COLLECTION |
+| ID | FULL NAME OF A COLLECTION |
 |:---|:---|
 | JK | *al-Jāmiʿ al-kabīr* |
 | Shamela | *al-Maktabaŧ al-Šāmilaŧ* |
@@ -26,7 +26,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 ## IDs for Individual Contributions
 
-| IDs | FULL NAME OF COLLECTION |
+| IDs | FULL NAME OF AN INDIVIDUAL |
 |:---|:---|
 | GVDB | Gowaart Van Den Bossche |
 |   |   |
