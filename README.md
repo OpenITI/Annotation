@@ -28,6 +28,6 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 | IDs | FULL NAME OF COLLECTION |
 |:---|:---|
-| GVDB | Gowaart Van Den Bosche |
+| GVDB | Gowaart Van Den Bossche |
 |   |   |
 |   |   |
