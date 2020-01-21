@@ -24,6 +24,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Shamela | *al-Maktabaŧ al-Šāmilaŧ*, www.shamela.ws |
 | Shia | http://shiaonlinelibrary.com |
 | Yatim | (texts for which we do not have text files yet) |
+| Hindawi | https://www.hindawi.org/books/ |
 
 
 ## IDs for Individual Contributions
