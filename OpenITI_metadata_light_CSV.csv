@@ -3686,8 +3686,8 @@ book,id,tags
 0597IbnJawzi.QussasWaMudhakkirin,Shamela0003617,_CILAL;_DACIF;_HADITH;_MAWDUC;_SUALAT
 0597IbnJawzi.SaydKhatir,JK010547,_ADAB;_ADAB;_ADHKAR;_QISAS;_RAQAIQ;_TARAIF
 0597IbnJawzi.SaydKhatir,Shamela0012028,_ADAB;_ADAB;_ADHKAR;_QISAS;_RAQAIQ;_TARAIF
-0597IbnJawzi.SifaSafwa,JK000067,BIO;COL;PPE;_ADAB;_ADHKAR;_FIQH;_MISC;_RAQAIQ;_TABAQAT;_TARAJIM;_TARIKH;_WAFAYAT
-0597IbnJawzi.SifaSafwa,Shamela0012031,BIO;COL;PPE;_ADAB;_ADHKAR;_FIQH;_MISC;_RAQAIQ;_TABAQAT;_TARAJIM;_TARIKH;_WAFAYAT
+0597IbnJawzi.SifatSafwa,JK000067,NONE
+0597IbnJawzi.SifatSafwa,Shamela0012031,NONE
 0597IbnJawzi.Tabsira,JK007063,_ADAB;_ADHKAR;_AKHLAQ;_MISC;_RAQAIQ;_SULUK
 0597IbnJawzi.Tabsira,Shamela0026351,_ADAB;_ADHKAR;_AKHLAQ;_MISC;_RAQAIQ;_SULUK
 0597IbnJawzi.TaczimFutya,Shamela0026894,_FIQH;_QAWACID;_USUL
@@ -4351,7 +4351,6 @@ book,id,tags
 0695IbnHamdanHarraniNumayri.SifatFatwa,Shamela0006356,_FIQH;_MASAIL;_QAWACID;_USUL;_USULIYYA
 0696CumarSunami.NisabIhtisab,JK001311,_QADA;_SIYASA
 0696CumarSunami.NisabIhtisab,Shamela0009679,_QADA;_SIYASA
-0696Dabbagh.MacalimIman,Yatim000001,NONE
 0696DiyaDinTurkumani.Mashyakha,Shamela0021681,PPE;_HADITH;_MAKHTUTAT
 0696IbnZahiri.Mashyakha,JK009154,PPE;_AJZA;_HADITH;_TARAJIM
 0696IbnZahiri.Mashyakha,Shamela0005740,PPE;_AJZA;_HADITH;_TARAJIM
@@ -6335,6 +6334,7 @@ book,id,tags
 1107HashimBahrani.KashfMihimm,Shia004037,_CAQAID;_SHICI;_TWELVERS
 1107HashimBahrani.MadinatMacajiz,Shia001423Vols,_HADITH;_SHICI
 1107HashimBahrani.YanabicMacajiz,Shia001431,_HADITH;_SHICI
+1111Majlisi.BiharAnwar,Shia001432Vols,NONE
 1111Majlisi.BiharAnwar,Shia001432VolsA,NONE
 1111Majlisi.BiharAnwar,Shia001432VolsB,NONE
 1111Majlisi.BiharAnwar,Shia001432VolsC,NONE
@@ -6742,11 +6742,11 @@ book,id,tags
 1281MurtadaAnsari.Taqiyya,Shia000362,_AFTER800;_FIQH;_SHICI
 1281MurtadaAnsari.Wasaya,Shia000364,_AFTER800;_FIQH;_SHICI
 1281MurtadaAnsari.Zakat,Shia000367,_AFTER800;_FIQH;_SHICI
-1282AbaButayn.RasailWaFatawa,Shamela0011212,_FATAWA
-1282Ababutayn.DahdShubuhat,Shamela0011181,_CAQAID
-1282Ababutayn.IntisarLiHizbAllah,Shamela0007554,_CAQAID
-1282Ababutayn.RaddCalaBurda,Shamela0007620,_CAQAID
-1282Ababutayn.TasisTaqdis,Shamela0011079,_CAQAID
+1282Ababutayn.DahdShubuhat,Shamela0011181,NONE
+1282Ababutayn.IntisarLiHizbAllah,Shamela0007554,NONE
+1282Ababutayn.RaddCalaBurda,Shamela0007620,NONE
+1282Ababutayn.RasailWaFatawa,Shamela0011212,NONE
+1282Ababutayn.TasisTaqdis,Shamela0011079,NONE
 1285IbnHasanAlShaykh.BayanKalimatTawhid,Shamela0011074,_CAQAID
 1285IbnHasanAlShaykh.BayanMahabba,Shamela0011073,_CAQAID
 1285IbnHasanAlShaykh.FathMajid,Shamela0002386,_CAQAID
