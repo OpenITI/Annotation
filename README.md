@@ -25,6 +25,8 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Shia | http://shiaonlinelibrary.com |
 | Yatim | (texts for which we do not have text files yet) |
 | Hindawi | https://www.hindawi.org/books/ |
+| GRAR | graeco-arabic-studies.org |
+| SAWS | Sharing Ancient Wisdoms, https://ancientwisdoms.ac.uk/ |
 
 
 ## IDs for Individual Contributions
