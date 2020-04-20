@@ -1,6 +1,6 @@
 # Annotation
 
-The complete description of the annotation workflow can be found [here](https://docs.google.com/document/d/1I3Xa67EOMOGoaBJnjxlZcuyEFHYq21gwS4r59t_Mw5g/edit?usp=sharing). Steps below only explain the process of selection of a text for annotation.
+The complete description of the annotation workflow can be found [here](https://docs.google.com/document/d/1I3Xa67EOMOGoaBJnjxlZcuyEFHYq21gwS4r59t_Mw5g/edit?usp=sharing), and an updated version [here](https://docs.google.com/document/d/1XsRR56gn3LvpToTtmy7_YlLtG9bybZImhVMvX1SISrE/edit). Steps below only explain the process of selection of a text for annotation.
 
 1. Open the [priority list](https://github.com/OpenITI/Annotation/blob/master/priority_list.csv). It is organized chronologically and is searcheable (the field with a magnifying glass, saying `Search this file`).
 1. Texts with `priority` are the ones that should be annotated. Work in chronological order. Texts up to 1000 AH are of top priority.
@@ -25,6 +25,8 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Shia | http://shiaonlinelibrary.com |
 | Yatim | (texts for which we do not have text files yet) |
 | Hindawi | https://www.hindawi.org/books/ |
+| GRAR | https://graeco-arabic-studies.org |
+| SAWS | Sharing Ancient Wisdoms, https://ancientwisdoms.ac.uk/ |
 
 
 ## IDs for Individual Contributions
