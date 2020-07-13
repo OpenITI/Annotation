@@ -16,8 +16,6 @@ assignees:
 
 **#BOOK_YML_CHECKED:#** y/n/which changes have you made?
 
-**#BIBTEX_FILE_ADDED:#** y/n (bibtex template can be found here: https://docs.google.com/document/d/1twaKWlfiu92pLbFEF5JDRsgo9HQsuOZKSsO4uTjGP_g/edit?usp=sharing)
-
 **#STRUCTURAL_ANNOTATION:#** note down any changes you made to the structural annotation
 
 **#OUTSTANDING_FORMALIZED_ISSUES:#** Add formalized issues (see )
