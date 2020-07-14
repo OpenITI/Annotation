@@ -22,6 +22,6 @@ assignees:
 
 **#FURTHER_COMMENTS#** 
 
-NB: Make sure the issue title looks like TEXT VETTED: <uri of the vetted text>.
+NB: Make sure the issue title looks like TEXT VETTED: /uri of the vetted text/.
 
 More info on vetting: see https://docs.google.com/document/d/1twaKWlfiu92pLbFEF5JDRsgo9HQsuOZKSsO4uTjGP_g/edit?usp=sharing
