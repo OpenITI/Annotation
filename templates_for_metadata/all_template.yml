@@ -24,12 +24,12 @@
 # - this information is automatically derived from the
 #   structure of the folder and folder/file names
 
-10#AUTH#ISM####AR: Fulān
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+10#AUTH#ISM####LA: Fulān
+10#AUTH#NASAB##LA: b. Fulān b. Fulān b. Fulān b. Fulān
+10#AUTH#KUNYA##LA: Abū Fulān, Abū Fulānaŧ
+10#AUTH#LAQAB##LA: Fulān al-dīn, Fulān al-dawlaŧ
+10#AUTH#NISBA##LA: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
+10#AUTH#SHUHRA#LA: Ibn Fulān al-Fulānī
 
 # - these fields are to be completed in betaCode, or BC 1-to-1
 #   Transliteration; information from these fields will be auto-
@@ -88,13 +88,13 @@
 
 00#AUTH#URI######: 0748Dhahabi
 
-10#AUTH#ISM####AR: Muḥammad
-10#AUTH#KUNYA##AR: Abū ʿAbd Allãh
-10#AUTH#LAQAB##AR: Šams al-dīn
-10#AUTH#NASAB##AR: b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh
-10#AUTH#NISBA##AR: al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī,
+10#AUTH#ISM####LA: Muḥammad
+10#AUTH#KUNYA##LA: Abū ʿAbd Allãh
+10#AUTH#LAQAB##LA: Šams al-dīn
+10#AUTH#NASAB##LA: b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh
+10#AUTH#NISBA##LA: al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī,
     al-Muʾarriḫ, al-Ḥāfiẓ, al-Ḏahabī
-10#AUTH#SHUHRA#AR: al-Ḏahabī
+10#AUTH#SHUHRA#LA: al-Ḏahabī
 
 11#AUTH#ISM####AR: محمد
 11#AUTH#KUNYA##AR: أبو عبد الله
@@ -133,8 +133,8 @@
 # - this information is automatically derived from the
 #   structure of the folder and folder/file names
 
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#LA: Kitāb al-Muʾallif
+10#BOOK#TITLEB#LA: Risālaŧ al-Muʾallif
 
 # - these fields are to be completed in betaCode, or BC 1-to-1
 #   Transliteration; information from these fields will be auto-
@@ -173,8 +173,8 @@
 10#BOOK#GENRES###: GAL@geschichte, maximromanov@chronicle,
     maximromanov@biocollection, maximromanov@general
 
-10#BOOK#TITLEA#AR: Taʾrīḫ al-islām
-10#BOOK#TITLEB#AR: Taʾrīḫ al-islām wa-Ṭabaqāt al-mašāhīr wa-l-aʿlām
+10#BOOK#TITLEA#LA: Taʾrīḫ al-islām
+10#BOOK#TITLEB#LA: Taʾrīḫ al-islām wa-Ṭabaqāt al-mašāhīr wa-l-aʿlām
 11#BOOK#TITLEA#AR: تأريخ الإسلام
 11#BOOK#TITLEB#AR: تأريخ الإسلام وطبقات المشاهير والأعلام
 
