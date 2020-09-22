@@ -27,6 +27,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Hindawi | https://www.hindawi.org/books/ |
 | GRAR | https://graeco-arabic-studies.org |
 | SAWS | Sharing Ancient Wisdoms, https://ancientwisdoms.ac.uk/ |
+| JMIHE | Jewish-Muslim Intellectual History Entangled, https://www.openbookpublishers.com/product/1193 |
 
 
 ## IDs for Individual Contributions
