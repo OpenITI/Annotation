@@ -40,4 +40,5 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Khismatulin | Alexei Khismatulin, IOM RAS, St.Peterburg |
 | MGR | Maxim Romanov, Vienna / KITAB  |
 | SBS | Sarah Bowen Savant, KITAB |
+| AQ | Aslishso Qurboniev, KITAB |
 
