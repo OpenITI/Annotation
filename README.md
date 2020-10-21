@@ -41,5 +41,5 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | MGR | Maxim Romanov, Vienna / KITAB  |
 | SBS | Sarah Bowen Savant, KITAB |
 | AQ | Aslisho Qurboniev, KITAB |
-| PES | P. Elia Saade, Université Saint-Esprit de Kaslik, Lebanon |
+| PES | P. Elie Saade, Université Saint-Esprit de Kaslik, Lebanon |
 
