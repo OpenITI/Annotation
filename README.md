@@ -19,16 +19,22 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 | ID | FULL NAME OF A COLLECTION |
 |:---|:---|
-| JK | *al-Jāmiʿ al-kabīr* |
-| Sham30K | *al-Maktabaŧ al-Šāmilaŧ*, official version + additional texts, downloaded from https://archive.org/details/SHAMELH30-1-20 |
-| Shamela | *al-Maktabaŧ al-Šāmilaŧ*, www.shamela.ws |
-| Shia | http://shiaonlinelibrary.com |
-| Yatim | (texts for which we do not have text files yet) |
+| BibleCorpus | https://github.com/christos-c/bible-corpus, multilingual parallel corpus of Bible translations |
+| GRAR | *Graeco-Arabic*, https://graeco-arabic-studies.org, A Digital Corpus for Graeco-Arabic Studies |
+| Filaha | *The Filāḥa Project*, http://www.filaha.org/, Arabic books on husbandry |
 | Hindawi | https://www.hindawi.org/books/ |
-| GRAR | https://graeco-arabic-studies.org |
-| SAWS | Sharing Ancient Wisdoms, https://ancientwisdoms.ac.uk/ |
-| JMIHE | Jewish-Muslim Intellectual History Entangled, https://www.openbookpublishers.com/product/1193 |
-
+| JK | *al-Jāmiʿ al-kabīr*, by Jordanian publisher Markaz al-Turāṯ |
+| JMIHE | *Jewish-Muslim Intellectual History Entangled*, https://www.openbookpublishers.com/product/1193 |
+| SAWS | *Sharing Ancient Wisdoms*, https://ancientwisdoms.ac.uk/ |
+| Shamela | *al-Maktabaŧ al-Šāmilaŧ*, www.shamela.ws, scraped ca. 2014 |
+| Sham19Y | *al-Maktabaŧ al-Šāmilaŧ*, www.shamela.ws, additional scrape in October 2019 |
+| Sham30K | *al-Maktabaŧ al-Šāmilaŧ*, official version + additional texts, downloaded from https://archive.org/details/SHAMELH30-1-20 |
+| ShamAY | official version of *al-Maktabaŧ al-Šāmilaŧ* + private collection of digitized books (gift) |
+| ShamIbadiyya | https://archive.org/details/5_20190723, collection of Ibāḍī texts by the Algerian Jamʿiyyaŧ al-Turāṯ, packaged in a Maktaba Shamela instance |
+| Shia | *al-Maktabaŧ al-Šīʿiyyaŧ*, http://shiaonlinelibrary.com, by the Ayatollah Milani Foundation |
+| Tafsir | *al-Tafāsīr*, www.altafsir.com, collection of Qur'ān commentaries by the Jordanian Royal Aal al-Bayt Institute for Islamic Thought |
+| Yatim | (texts for which we do not have text files yet) |
+| Zaydiyya | Collection of Zaydī texts, packaged in a Maktaba Shamela instance |
 
 ## IDs for Individual Contributions
 
@@ -42,4 +48,5 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | SBS | Sarah Bowen Savant, KITAB |
 | AQ | Aslisho Qurboniev, KITAB |
 | PES | P. Elie Saade, Université Saint-Esprit de Kaslik, Lebanon |
+| PV | Peter Verkinderen, KITAB |
 
