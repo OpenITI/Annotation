@@ -34,7 +34,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Shia | *al-Maktabaŧ al-Šīʿiyyaŧ* | http://shiaonlinelibrary.com | Text collection by the Ayatollah Milani Foundation |
 | Tafsir | *al-Tafāsīr* | www.altafsir.com | Collection of Qur'ān commentaries by the Jordanian Royal Aal al-Bayt Institute for Islamic Thought |
 | Yatim | | | (texts for which we do not have text files yet) |
-| Zaydiyya | | | Collection of Zaydī texts, packaged in a Maktaba Shamela instance |
+| Zaydiyya | *al-Maktabaŧ al-Šāmilaŧ al-Zaydiyyaŧ* | | Collection of Zaydī texts, packaged in a Maktaba Shamela instance |
 
 ## IDs for Individual Contributions
 
