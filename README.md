@@ -38,15 +38,15 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 ## IDs for Individual Contributions
 
-| IDs | FULL NAME OF AN INDIVIDUAL |
-|:----|:---------------------------|
-| LMN | Lorenz Matthias Nigst, KITAB |
-| GVDB | Gowaart Van Den Bossche, KITAB |
-| JT | Jan Thiele, CSIC |
-| Khismatulin | Alexei Khismatulin, IOM RAS, St.Peterburg |
-| MGR | Maxim Romanov, Vienna / KITAB  |
-| SBS | Sarah Bowen Savant, KITAB |
-| AQ | Aslisho Qurboniev, KITAB |
-| PES | P. Elie Saade, Université Saint-Esprit de Kaslik, Lebanon |
-| PV | Peter Verkinderen, KITAB |
+| IDs | FULL NAME  | AFFILIATION |
+|:----|:-----------|:------------|
+| LMN | Lorenz Matthias Nigst | KITAB |
+| GVDB | Gowaart Van Den Bossche | KITAB |
+| JT | Jan Thiele | CSIC |
+| Khismatulin | Alexei Khismatulin | IOM RAS, St.Peterburg |
+| MGR | Maxim Romanov | Vienna / KITAB  |
+| SBS | Sarah Bowen Savant | KITAB |
+| AQ | Aslisho Qurboniev | KITAB |
+| PES | P. Elie Saade | Université Saint-Esprit de Kaslik, Lebanon |
+| PV | Peter Verkinderen | KITAB |
 
