@@ -21,6 +21,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 |:---|:---|:---|:---|
 | ALCorpus | *Arabic and Latin Corpus* | https://www.arabic-latin-corpus.philosophie.uni-wuerzburg.de/ | A collection of Arabic-Latin translations of the 10th to 14th centuries AD |
 | BibleCorpus | *Bible Corpus* | https://github.com/christos-c/bible-corpus | A multilingual parallel corpus of Bible translations |
+| DARE | *Digital Averroes Research Environment* | https://dare.uni-koeln.de/ | Digital editions of Ibn Rushd’s works and their translations |
 | GRAR | *Graeco-Arabic Studies Corpus* | https://graeco-arabic-studies.org | A Digital Corpus for Graeco-Arabic Studies |
 | Filaha | *The Filāḥa Project* | http://www.filaha.org/ | Arabic books on husbandry |
 | Hindawi | *Hindawi* | https://www.hindawi.org/books/ | Books published by the Hindawi foundation |
