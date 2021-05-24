@@ -27,6 +27,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | Hindawi | *Hindawi* | https://www.hindawi.org/books/ | Books published by the Hindawi foundation |
 | JK | *al-Jāmiʿ al-kabīr* | | Books digitized by Jordanian publisher Markaz al-Turāṯ |
 | JMIHE | *Jewish-Muslim Intellectual History Entangled* | https://www.openbookpublishers.com/product/1193 | Publication of texts from the Karaite Library in Cairo, now in St Petersburg |
+| Kraken | - |-| Books OCRed through Kraken; for details of transcription models, see version yml-file |
 | PAL | *Ptolemaeus Arabus et Latinus* | https://ptolemaeus.badw.de/ | Arabic translations of and commentaries on Ptolemy's works |
 | SAWS | *Sharing Ancient Wisdoms* | https://ancientwisdoms.ac.uk/ | Collection of Wisdom texts in Arabic and other languages |
 | Shamela | *al-Maktabaŧ al-Šāmilaŧ* | www.shamela.ws | Large digital open-access library, scraped ca. 2014 |
