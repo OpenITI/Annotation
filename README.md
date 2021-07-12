@@ -53,4 +53,5 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | AQ | Aslisho Qurboniev | KITAB |
 | PES | P. Elie Saade | Université Saint-Esprit de Kaslik, Lebanon |
 | PV | Peter Verkinderen | KITAB |
+| SPL | Simon Peter Loynes | - |
 
