@@ -37,7 +37,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | ShamIbadiyya | *al-Maktabaŧ al-Šāmilaŧ al-Ibāḍiyyaŧ* | https://archive.org/details/5_20190723 | Collection of Ibāḍī texts by the Algerian Jamʿiyyaŧ al-Turāṯ, packaged in a Maktaba Shamela instance |
 | Shia | *al-Maktabaŧ al-Šīʿiyyaŧ* | http://shiaonlinelibrary.com | Text collection by the Ayatollah Milani Foundation |
 | Tafsir | *al-Tafāsīr* | www.altafsir.com | Collection of Qur'ān commentaries by the Jordanian Royal Aal al-Bayt Institute for Islamic Thought |
-| Wiki | *Wīkī Maṣdar* *Wikisource * | Texts uploaded on Arabic Wikisource |
+| Wiki | *Wīkī Maṣdar* *Wikisource * | https://ar.wikisource.org/Texts | Texts from Arabic Wikisource |
 | Yatim | | | (texts for which we do not have text files yet) |
 | Zaydiyya | *al-Maktabaŧ al-Šāmilaŧ al-Zaydiyyaŧ* | | Collection of Zaydī texts, packaged in a Maktaba Shamela instance |
 
