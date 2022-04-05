@@ -55,4 +55,6 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | PES | P. Elie Saade | Université Saint-Esprit de Kaslik, Lebanon |
 | PV | Peter Verkinderen | KITAB |
 | SPL | Simon Peter Loynes | - |
-
+| NA | Najib Ali | Queen Mary University, London |
+| MAS | Mohammed Abdisalam Abdillahi | Queen Mary University, London |
+| SLB | Syed Lorenzo Bukhari | Queen Mary University, London |
