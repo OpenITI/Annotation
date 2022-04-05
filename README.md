@@ -49,7 +49,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | GVDB | Gowaart Van Den Bossche | KITAB |
 | JT | Jan Thiele | CSIC |
 | Khismatulin | Alexei Khismatulin | IOM RAS, St.Peterburg |
-| MGR | Maxim Romanov | Universität Hamburg  |
+| MGR | Maxim Romanov | Universität Hamburg, KITAB  |
 | SBS | Sarah Bowen Savant | KITAB |
 | AQ | Aslisho Qurboniev | KITAB |
 | PES | P. Elie Saade | Université Saint-Esprit de Kaslik, Lebanon |
