@@ -19,7 +19,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 | ID | FULL NAME OF A COLLECTION | LINK | SHORT DESCRIPTION |
 |:---|:---|:---|:---|
-| AOCP1 | *Arabic OCR Catalyst Program* (Phase 1) | https://openiti.org/projects/OpenITI%20AOCP%20Phase%20One.html | Books OCR'ed during the first phase of this project |
+| AOCP1 | *Arabic-script OCR Catalyst Project* (Phase 1) | https://openiti.org/projects/OpenITI%20AOCP%20Phase%20One.html | Books OCR'ed during the first phase of this project |
 | ALCorpus | *Arabic and Latin Corpus* | https://www.arabic-latin-corpus.philosophie.uni-wuerzburg.de/ | A collection of Arabic-Latin translations of the 10th to 14th centuries AD |
 | BibleCorpus | *Bible Corpus* | https://github.com/christos-c/bible-corpus | A multilingual parallel corpus of Bible translations |
 | DARE | *Digital Averroes Research Environment* | https://dare.uni-koeln.de/ | Digital editions of Ibn Rushd’s works and their translations |
