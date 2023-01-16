@@ -19,15 +19,18 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 | ID | FULL NAME OF A COLLECTION | LINK | SHORT DESCRIPTION |
 |:---|:---|:---|:---|
+| AOCP1 | *Arabic OCR Catalyst Program* (Phase 1) | https://openiti.org/projects/OpenITI%20AOCP%20Phase%20One.html | Books OCR'ed during the first phase of this project |
 | ALCorpus | *Arabic and Latin Corpus* | https://www.arabic-latin-corpus.philosophie.uni-wuerzburg.de/ | A collection of Arabic-Latin translations of the 10th to 14th centuries AD |
 | BibleCorpus | *Bible Corpus* | https://github.com/christos-c/bible-corpus | A multilingual parallel corpus of Bible translations |
 | DARE | *Digital Averroes Research Environment* | https://dare.uni-koeln.de/ | Digital editions of Ibn Rushd’s works and their translations |
+| EScr | *Escriptorium* | https://escriptorium.openiti.org/ | Books OCRed through eScriptorium; for details of transcription models, see version yml-file |
 | GRAR | *Graeco-Arabic Studies Corpus* | https://graeco-arabic-studies.org | A Digital Corpus for Graeco-Arabic Studies |
 | Filaha | *The Filāḥa Project* | http://www.filaha.org/ | Arabic books on husbandry |
 | Hindawi | *Hindawi* | https://www.hindawi.org/books/ | Books published by the Hindawi foundation |
 | JK | *al-Jāmiʿ al-kabīr* | | Books digitized by Jordanian publisher Markaz al-Turāṯ |
 | JMIHE | *Jewish-Muslim Intellectual History Entangled* | https://www.openbookpublishers.com/product/1193 | Publication of texts from the Karaite Library in Cairo, now in St Petersburg |
 | Kraken | - |-| Books OCRed through Kraken; for details of transcription models, see version yml-file |
+| LAL | *Library of Arabic Literature* | https://www.libraryofarabicliterature.org/ | Arabic editions and English translations of significant works of Arabic literature |
 | PAL | *Ptolemaeus Arabus et Latinus* | https://ptolemaeus.badw.de/ | Arabic translations of and commentaries on Ptolemy's works |
 | SAWS | *Sharing Ancient Wisdoms* | https://ancientwisdoms.ac.uk/ | Collection of Wisdom texts in Arabic and other languages |
 | Shamela | *al-Maktabaŧ al-Šāmilaŧ* | www.shamela.ws | Large digital open-access library, scraped ca. 2014 |
