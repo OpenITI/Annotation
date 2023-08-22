@@ -24,7 +24,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | ArabCommAph | *Arabic Commentaries on the Hippocratic Aphorisms* | https://research.manchester.ac.uk/en/projects/arabic-commentaries-on-the-hippocratic-aphorisms | Collection of Arabic commentaries on the Aphorisms ascribed to Hippocrates, collected by Peter Pormann's ERC project |
 | BibleCorpus | *Bible Corpus* | https://github.com/christos-c/bible-corpus | A multilingual parallel corpus of Bible translations |
 | DARE | *Digital Averroes Research Environment* | https://dare.uni-koeln.de/ | Digital editions of Ibn Rushd’s works and their translations |
-| Dss | *Department of Syriac Studies / Dāʾirat al-Dirāsāt al-Suryāniyya* | https://dss-syriacpatriarchate.org | Christian texts from the patriarchate of Antakya |
+| DSS | *Department of Syriac Studies / Dāʾirat al-Dirāsāt al-Suryāniyya* | https://dss-syriacpatriarchate.org | Christian texts from the patriarchate of Antakya |
 | EScr | *Escriptorium* | https://escriptorium.openiti.org/ | Books OCRed through eScriptorium; for details of transcription models, see version yml-file |
 | GRAR | *Graeco-Arabic Studies Corpus* | https://graeco-arabic-studies.org | A Digital Corpus for Graeco-Arabic Studies |
 | Filaha | *The Filāḥa Project* | http://www.filaha.org/ | Arabic books on husbandry |
