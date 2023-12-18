@@ -67,3 +67,4 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | MAS | Mohammed Abdisalam Abdillahi | Queen Mary University, London |
 | SLB | Syed Lorenzo Bukhari | Queen Mary University, London |
 | FAQ | Fatima Ali Aqiil | Queen Mary University, London |
+| YR | Yossi Rapoport | Queen Mary University, London |
