@@ -53,15 +53,15 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 | IDs | FULL NAME  | AFFILIATION |
 |:----|:-----------|:------------|
-| LMN | Lorenz Matthias Nigst | KITAB |
-| GVDB | Gowaart Van Den Bossche | KITAB |
+| LMN | Lorenz Matthias Nigst | AKU-ISMC, CDH, KITAB |
+| GVDB | Gowaart Van Den Bossche | Ghent University |
 | JT | Jan Thiele | CSIC |
-| Khismatulin | Alexei Khismatulin | IOM RAS, St.Peterburg |
+| Khismatulin | Alexei Khismatulin | IOM RAS, St.Petersburg |
 | MGR | Maxim Romanov | Universität Hamburg, KITAB  |
-| SBS | Sarah Bowen Savant | KITAB |
-| AQ | Aslisho Qurboniev | KITAB |
+| SBS | Sarah Bowen Savant | AKU-ISMC, CDH, KITAB |
+| AQ | Aslisho Qurboniev | IIS |
 | PES | P. Elie Saade | Université Saint-Esprit de Kaslik, Lebanon |
-| PV | Peter Verkinderen | KITAB |
+| PV | Peter Verkinderen | AKU-ISMC, CDH, KITAB |
 | SPL | Simon Peter Loynes | - |
 | NA | Najib Ali | Queen Mary University, London |
 | MAS | Mohammed Abdisalam Abdillahi | Queen Mary University, London |
@@ -69,4 +69,5 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | FAQ | Fatima Ali Aqiil | Queen Mary University, London |
 | YR | Yossi Rapoport | Queen Mary University, London |
 | HHD | Hussain Hashim Dalal | Queen Mary University, London |
-| MA | Mushegh Asatryan | University of Calgary|
+| MA | Mushegh Asatryan | University of Calgary |
+| MAB | Mathew Barber | AKU-ISMC, CDH, KITAB |
