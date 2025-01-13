@@ -25,6 +25,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | ALCorpus | *Arabic and Latin Corpus* | https://www.arabic-latin-corpus.philosophie.uni-wuerzburg.de/ | A collection of Arabic-Latin translations of the 10th to 14th centuries AD |
 | ArabCommAph | *Arabic Commentaries on the Hippocratic Aphorisms* | https://research.manchester.ac.uk/en/projects/arabic-commentaries-on-the-hippocratic-aphorisms | Collection of Arabic commentaries on the Aphorisms ascribed to Hippocrates, collected by Peter Pormann's ERC project |
 | BibleCorpus | *Bible Corpus* | https://github.com/christos-c/bible-corpus | A multilingual parallel corpus of Bible translations |
+| BJS | *Book of Jāmāsp the Sage* project | https://www.oeaw.ac.at/ifi/forschung/manuskriptkulturen/the-book-of-jamasp-the-sage | Transcriptions of manuscripts of an anonymous 7th/13th C apocalyptic text |
 | DARE | *Digital Averroes Research Environment* | https://dare.uni-koeln.de/ | Digital editions of Ibn Rushd’s works and their translations |
 | DSS | *Department of Syriac Studies / Dāʾirat al-Dirāsāt al-Suryāniyya* | https://dss-syriacpatriarchate.org | Christian texts from the patriarchate of Antakya |
 | EScr | *Escriptorium* | https://escriptorium.openiti.org/ | Books OCRed through eScriptorium; for details of transcription models, see version yml-file |
