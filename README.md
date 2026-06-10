@@ -36,6 +36,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | JMIHE | *Jewish-Muslim Intellectual History Entangled* | https://www.openbookpublishers.com/product/1193 | Publication of texts from the Karaite Library in Cairo, now in St Petersburg |
 | Kraken | - |-| Books OCRed through Kraken; for details of transcription models, see version yml-file |
 | LAL | *Library of Arabic Literature* | https://www.libraryofarabicliterature.org/ | Arabic editions and English translations of significant works of Arabic literature |
+| Masaha | *Masāḥaŧ ḥurraŧ* | https://www.masaha.org/ | Library of Arabic texts |
 | MP | *Muslim Philosophy* | https://www.muslimphilosophy.com/ | Website on Muslim Philosophy; mostly links to editions but produced some MS Word editions themselves |
 | PAL | *Ptolemaeus Arabus et Latinus* | https://ptolemaeus.badw.de/ | Arabic translations of and commentaries on Ptolemy's works |
 | PDL | *Persian Digital Library* | https://persdigumd.github.io/PDL/ | Persian machine-actionable texts collected by Matthew Thomas Miller's team at UMD |
