@@ -39,6 +39,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 | MP | *Muslim Philosophy* | https://www.muslimphilosophy.com/ | Website on Muslim Philosophy; mostly links to editions but produced some MS Word editions themselves |
 | PAL | *Ptolemaeus Arabus et Latinus* | https://ptolemaeus.badw.de/ | Arabic translations of and commentaries on Ptolemy's works |
 | PDL | *Persian Digital Library* | https://persdigumd.github.io/PDL/ | Persian machine-actionable texts collected by Matthew Thomas Miller's team at UMD |
+| Rafed |  *Maktabaŧ Rāfed* | https://books.rafed.net/ | Collection of mostly Shii texts |
 | SAWS | *Sharing Ancient Wisdoms* | https://ancientwisdoms.ac.uk/ | Collection of Wisdom texts in Arabic and other languages |
 | Shamela | *al-Maktabaŧ al-Šāmilaŧ* | www.shamela.ws | Large digital open-access library, scraped ca. 2014 |
 | Sham19Y | *al-Maktabaŧ al-Šāmilaŧ* (2019 additions) | www.shamela.ws | additional scrape in October 2019 |
