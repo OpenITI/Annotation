@@ -19,6 +19,7 @@ You can create an `URGENT` issue to assignn specific text to a specific person. 
 
 | ID | FULL NAME OF A COLLECTION | LINK | SHORT DESCRIPTION |
 |:---|:---|:---|:---|
+| Aldiwan | *al-Diwan* | https://www.aldiwan.net | Collection of Arabic poetry |
 | Alwaraq | *al-Warrāq* | http://www.alwaraq.net | One of the earliest online collections of digital Arabic books |
 | AOCP1 | *Arabic-script OCR Catalyst Project* (Phase 1) | https://openiti.org/projects/OpenITI%20AOCP%20Phase%20One.html | Books OCR'ed during the first phase of this project |
 | AOCP2 | *Arabic-script OCR Catalyst Project* (Phase 2) | https://openiti.org/projects/OpenITI%20AOCP%20Phase%20One.html | Books OCR'ed during the second phase of this project |
